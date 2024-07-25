@@ -1,0 +1,51 @@
+@import '../../../colors.less';
+
+.section {
+    margin-top: 50px;
+
+    @media (max-width: 676px) {
+        margin-top: 40px;
+    }
+
+    @media (max-width: 575px) {
+        margin-top: 30px;
+    }
+
+    &-centered-wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 100%;
+    }
+
+    &-title {
+        display: flex;
+        align-items: flex-end;
+    }
+
+    &-description {
+        &:last-of-type {
+            margin-bottom: 80px;
+
+            @media (max-width: 767px) {
+                margin-bottom: 60px;
+            }
+
+            @media (max-width: 575px) {
+                margin-bottom: 50px;
+            }
+        }
+    }
+
+    &-number {
+        font-family: "GTWalsheim Black";
+        font-size: 100px;
+        line-height: 114px;
+        color: @violet;
+        margin-right: 24px;
+
+        @media (max-width: 575px) {
+            display: none;
+        }
+    }
+}

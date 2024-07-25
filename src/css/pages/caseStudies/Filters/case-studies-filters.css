@@ -1,0 +1,143 @@
+.filters {
+  max-width: 1920px;
+  margin: 0 auto 120px;
+  background-color: #7C59ED;
+  display: flex;
+  align-items: center;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+@media (max-width: 767px) {
+  .filters {
+    flex-direction: column;
+    margin-bottom: 80px;
+  }
+}
+@media (max-width: 575px) {
+  .filters {
+    margin-bottom: 50px;
+    border-top: none;
+    background-color: transparent;
+  }
+}
+.filters h3 {
+  color: white;
+  margin-bottom: 0;
+  padding: 0 70px;
+}
+@media (max-width: 991px) {
+  .filters h3 {
+    padding: 0 50px;
+  }
+}
+@media (max-width: 991px) {
+  .filters h3 {
+    padding: 0 24px;
+  }
+}
+@media (max-width: 767px) {
+  .filters h3 {
+    padding: 24px 0;
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px solid black;
+  }
+}
+@media (max-width: 575px) {
+  .filters h3 {
+    background-color: white;
+    color: #7C59ED;
+    padding: 0 0 8px;
+  }
+}
+.filters .filters-rows {
+  width: 100%;
+  border-left: 2px solid black;
+  background-color: #7C59ED;
+}
+@media (max-width: 767px) {
+  .filters .filters-rows {
+    border-left: 0;
+  }
+}
+.filters .filters-rows .filters-row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 24px 0 16px 70px;
+}
+@media (max-width: 1199px) {
+  .filters .filters-rows .filters-row {
+    padding-left: 50px;
+  }
+}
+@media (max-width: 991px) {
+  .filters .filters-rows .filters-row {
+    padding-left: 24px;
+  }
+}
+@media (max-width: 575px) {
+  .filters .filters-rows .filters-row {
+    padding: 12px 0 4px 12px;
+  }
+}
+.filters .filters-rows .filters-row:first-child {
+  border-bottom: 1px solid black;
+}
+.filters .filters-rows .filters-row:last-child {
+  border-top: 1px solid black;
+}
+.filters .filters-rows .filters-row p {
+  color: white;
+  margin-bottom: 0;
+  flex-basis: 195px;
+}
+@media (max-width: 1199px) {
+  .filters .filters-rows .filters-row p {
+    flex-basis: 100%;
+    margin-bottom: 12px;
+  }
+}
+@media (max-width: 575px) {
+  .filters .filters-rows .filters-row p {
+    margin-bottom: 8px;
+    font-size: 16px;
+  }
+}
+.filters .filters-rows .filters-row .checkboxes {
+  display: flex;
+  flex-wrap: wrap;
+  flex-grow: 1;
+}
+.filters .filters-rows .filters-row .checkbox {
+  margin-right: 24px;
+  margin-bottom: 8px;
+}
+@media (max-width: 575px) {
+  .filters .filters-rows .filters-row .checkbox {
+    margin-right: 6px;
+    flex-basis: calc(33% - 18px);
+    flex-grow: 1;
+  }
+}
+.filters .filters-rows .filters-row .checkbox input[type=checkbox] {
+  display: none;
+}
+.filters .filters-rows .filters-row .checkbox input[type=checkbox] + label {
+  font-size: 18px;
+  padding-left: 30px;
+  background: url("/src/assets/img/checkbox.svg") no-repeat;
+  color: white;
+  cursor: url("/src/assets/img/hand.png") 0 0, auto;
+}
+@media (max-width: 575px) {
+  .filters .filters-rows .filters-row .checkbox input[type=checkbox] + label {
+    font-size: 15px;
+  }
+}
+.filters .filters-rows .filters-row .checkbox input[type=checkbox]:hover + label {
+  padding-left: 30px;
+  background: url("/src/assets/img/checkbox-hover.svg") no-repeat;
+}
+.filters .filters-rows .filters-row .checkbox input[type=checkbox]:checked + label {
+  background: url("/src/assets/img/checkbox-checked.svg") no-repeat;
+}

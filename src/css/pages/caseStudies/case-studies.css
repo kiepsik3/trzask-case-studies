@@ -1,0 +1,42 @@
+.case-studies {
+  padding-top: 132px;
+}
+@media (max-width: 575px) {
+  .case-studies {
+    padding: 110px 8px 0;
+  }
+}
+.case-studies-header {
+  margin-bottom: 110px;
+}
+@media (max-width: 575px) {
+  .case-studies-header {
+    margin-bottom: 60px;
+  }
+}
+.case-studies-info {
+  align-self: center;
+}
+@media (max-width: 575px) {
+  .case-studies-info {
+    order: 1;
+    text-align: center;
+  }
+}
+.case-studies-img {
+  width: 260px !important;
+}
+@media (max-width: 575px) {
+  .case-studies-img {
+    width: 200px;
+    display: block;
+    margin: 0 auto 32px;
+  }
+}
+.case-studies > button {
+  display: block;
+  margin: 0 auto 50px;
+}
+.case-studies .no-entries-info {
+  margin-bottom: 122px;
+}

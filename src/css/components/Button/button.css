@@ -1,0 +1,80 @@
+.button {
+  font-size: 18px;
+  line-height: 26px;
+  font-family: "GTWalsheim Black";
+  background-color: white;
+  border: none;
+  position: relative;
+  padding: 15px 40px;
+}
+.button:hover::before {
+  transform: rotate(-6deg) translateY(-50%);
+  top: 42%;
+  left: 2px;
+  height: 80%;
+}
+.button:hover::after {
+  transform: rotate(8deg) translateY(-50%);
+  top: 47%;
+  height: 78%;
+  right: 2px;
+}
+.button:hover svg {
+  margin-left: 10px;
+}
+.button::before,
+.button::after {
+  transition: all 0.2s;
+  content: '';
+  display: block;
+  width: 3px;
+  height: 100%;
+  background-color: #7C59ED;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.button::before {
+  left: -1px;
+}
+.button::after {
+  right: 0;
+}
+.button-border {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+.button-border:hover::before {
+  transform: rotate(-2deg) translateX(-50%);
+  left: 53%;
+}
+.button-border:hover::after {
+  transform: rotate(2deg) translateX(-50%);
+  width: 105%;
+}
+.button-border::before,
+.button-border::after {
+  transition: all 0.2s;
+  content: '';
+  display: block;
+  width: 100%;
+  height: 3px;
+  background-color: #7C59ED;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.button-border::before {
+  top: 0;
+}
+.button-border::after {
+  bottom: 0;
+}
+.button svg {
+  transition: margin 0.2s;
+  margin-left: 6px;
+  font-size: 14px;
+}

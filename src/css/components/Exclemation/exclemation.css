@@ -1,0 +1,40 @@
+.exclemation {
+  display: flex;
+  align-items: center;
+  height: 328px;
+  position: relative;
+  margin-top: 12px;
+  margin-bottom: 80px;
+}
+@media (max-width: 767px) {
+  .exclemation {
+    height: 200px;
+    margin-bottom: 60px;
+  }
+}
+@media (max-width: 575px) {
+  .exclemation {
+    height: 150px;
+    margin-bottom: 50px;
+  }
+}
+.exclemation-bg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: 40%;
+  background-size: contain;
+}
+.exclemation.right {
+  margin-left: 60px;
+}
+@media (max-width: 575px) {
+  .exclemation.right {
+    margin-left: 0;
+  }
+}
+.exclemation-featured {
+  font-family: "GTWalsheim Black";
+  color: #7C59ED;
+}

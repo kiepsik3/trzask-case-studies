@@ -1,0 +1,20 @@
+.opacity {
+    opacity: .6;
+}
+
+.paragraph {
+    &-small {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    &-regular {
+        font-size: 22px;
+        line-height: 32px;
+
+        @media (max-width: 575px) {
+            font-size: 18px;
+            line-height: 26px;
+        }
+    }
+}

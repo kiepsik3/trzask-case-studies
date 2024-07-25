@@ -1,0 +1,48 @@
+.section {
+  margin-top: 50px;
+}
+@media (max-width: 676px) {
+  .section {
+    margin-top: 40px;
+  }
+}
+@media (max-width: 575px) {
+  .section {
+    margin-top: 30px;
+  }
+}
+.section-centered-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+.section-title {
+  display: flex;
+  align-items: flex-end;
+}
+.section-description:last-of-type {
+  margin-bottom: 80px;
+}
+@media (max-width: 767px) {
+  .section-description:last-of-type {
+    margin-bottom: 60px;
+  }
+}
+@media (max-width: 575px) {
+  .section-description:last-of-type {
+    margin-bottom: 50px;
+  }
+}
+.section-number {
+  font-family: "GTWalsheim Black";
+  font-size: 100px;
+  line-height: 114px;
+  color: #7C59ED;
+  margin-right: 24px;
+}
+@media (max-width: 575px) {
+  .section-number {
+    display: none;
+  }
+}

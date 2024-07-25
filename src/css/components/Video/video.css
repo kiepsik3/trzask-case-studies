@@ -1,0 +1,88 @@
+.video.with-background {
+  background-color: #AAD6E2;
+  padding: 80px 150px;
+}
+@media (max-width: 1399px) {
+  .video.with-background {
+    padding: 70px 120px;
+  }
+}
+@media (max-width: 1199px) {
+  .video.with-background {
+    padding: 60px 100px;
+  }
+}
+@media (max-width: 991px) {
+  .video.with-background {
+    padding: 50px 70px;
+  }
+}
+@media (max-width: 767px) {
+  .video.with-background {
+    padding: 35px 50px;
+  }
+}
+@media (max-width: 575px) {
+  .video.with-background {
+    padding: 20px;
+  }
+}
+.video.caption {
+  padding-bottom: 32px;
+}
+@media (max-width: 575px) {
+  .video.caption {
+    padding-bottom: 20px;
+  }
+}
+@media (min-width: 992px) {
+  .video.square {
+    max-width: 75%;
+    margin: 0 auto;
+  }
+}
+.video.square .video-wrapper {
+  padding-bottom: 100%;
+}
+.video-wrapper {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+  box-shadow: 0 0 0 1px #E4E4E4;
+}
+.with-background .video-wrapper {
+  box-shadow: none;
+}
+.video-caption {
+  font-size: 14px;
+  line-height: 22px;
+  display: block;
+  margin-top: 32px;
+}
+@media (max-width: 991px) {
+  .video-caption {
+    margin-top: 24px;
+  }
+}
+@media (max-width: 575px) {
+  .video-caption {
+    margin-top: 20px;
+  }
+}
+.video-caption::before {
+  content: "\A";
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: black;
+  display: inline-block;
+  margin-right: 5px;
+}
+.video iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}

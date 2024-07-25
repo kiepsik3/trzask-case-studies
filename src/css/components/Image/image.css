@@ -1,0 +1,122 @@
+.image {
+  margin-bottom: 80px;
+}
+@media (max-width: 767px) {
+  .image {
+    margin-bottom: 60px;
+  }
+}
+@media (max-width: 575px) {
+  .image {
+    margin-bottom: 50px;
+  }
+}
+.image.with-background {
+  background-color: #AAD6E2;
+  padding: 80px 150px;
+}
+@media (max-width: 1399px) {
+  .image.with-background {
+    padding: 70px 120px;
+  }
+}
+@media (max-width: 1199px) {
+  .image.with-background {
+    padding: 60px 100px;
+  }
+}
+@media (max-width: 991px) {
+  .image.with-background {
+    padding: 50px 70px;
+  }
+}
+@media (max-width: 767px) {
+  .image.with-background {
+    padding: 35px 50px;
+  }
+}
+@media (max-width: 575px) {
+  .image.with-background {
+    padding: 20px;
+  }
+}
+.image.caption {
+  padding-bottom: 32px;
+}
+@media (max-width: 575px) {
+  .image.caption {
+    padding-bottom: 20px;
+  }
+}
+.image.left.with-background {
+  padding: 12% 12% 12% 0;
+}
+@media (max-width: 767px) {
+  .image.left.with-background {
+    padding: 10%;
+  }
+}
+@media (max-width: 575px) {
+  .image.left.with-background {
+    padding: 20px;
+  }
+}
+.image.left.with-background.caption {
+  padding-bottom: 32px;
+}
+@media (max-width: 575px) {
+  .image.left.with-background.caption {
+    padding-bottom: 20px;
+  }
+}
+.image.right.with-background {
+  padding: 12% 0 12% 12%;
+}
+@media (max-width: 767px) {
+  .image.right.with-background {
+    padding: 10%;
+  }
+}
+@media (max-width: 575px) {
+  .image.right.with-background {
+    margin-left: 0;
+    padding: 20px;
+  }
+}
+.image.right.with-background.caption {
+  padding-bottom: 32px;
+}
+@media (max-width: 575px) {
+  .image.right.with-background.caption {
+    padding-bottom: 20px;
+  }
+}
+.image img {
+  width: 100%;
+  border-radius: 4px;
+}
+.image-caption {
+  font-size: 14px;
+  line-height: 22px;
+  display: block;
+  margin-top: 32px;
+}
+@media (max-width: 991px) {
+  .image-caption {
+    margin-top: 24px;
+  }
+}
+@media (max-width: 575px) {
+  .image-caption {
+    margin-top: 20px;
+  }
+}
+.image-caption::before {
+  content: "\A";
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: black;
+  display: inline-block;
+  margin-right: 5px;
+}

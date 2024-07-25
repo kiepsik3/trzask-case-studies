@@ -1,0 +1,47 @@
+@import '../../colors.less';
+
+.headlines {
+    font-family: "GTWalsheim Black";
+}
+
+.violet {
+    color: @violet;
+}
+
+.headline {
+    &-1 {
+        .headlines;
+        font-size: 50px;
+        line-height: 60px;
+        margin-bottom: 20px;
+
+        @media (max-width: 575px) {
+            font-size: 36px;
+            line-height: 44px;
+        }
+    }
+
+    &-2 {
+        .headlines;
+        font-size: 32px;
+        line-height: 42px;
+        margin-bottom: 20px;
+
+        @media (max-width: 575px) {
+            font-size: 22px;
+            line-height: 30px;
+        }
+    }
+
+    &-3 {
+        .headlines;
+        font-size: 22px;
+        line-height: 32px;
+        margin-bottom: 15px;
+
+        @media (max-width: 575px) {
+            font-size: 18px;
+
+        }
+    }
+}

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <meta property="og:title" content="Trzask Studio" />
+  <meta property="og:type" content="image/jpeg" />
+  <meta property="og:url" content="https://trzask.com/" />
+  <meta property="og:image" content="https://trzask.com/ogimage.jpg" />
+
+  <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
+
+  <script src="/js/language_pl.js"></script>
+  <script src="/js/interface.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="/style/cursor.css">
+  <link rel="stylesheet" type="text/css" href="/style/hamburger.css">
+  <link rel="stylesheet" type="text/css" href="/style/font.css">
+  <link rel="stylesheet" type="text/css" href="/style/main.css">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-79333504-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-79333504-1');
+  </script>
+  <!--Global site tag (gtag.js) - AdWords: 812495594 -->
+
+  <style>
+    /*open/close btn normal*/
+    #hamburger {
+      position: fixed;
+      margin-top: 0;
+      transform: translateY(-100%);
+      transition: all .3s;
+    }
+
+    #hamburger.pinned {
+      top: 42px;
+      transform: translateY(0);
+    }
+
+    @media (max-width: 575px) {
+      #hamburger.pinned {
+        top: 30px
+      }
+    }
+
+    /*open/close btn hover */
+    #hamburger:hover span:nth-child(1),
+    #hamburger:hover span:nth-child(3),
+    #hamburger:hover span:nth-child(2) {
+      background-color: #7C59ED;
+    }
+
+    /*open menu background*/
+    #bg-menu-mobile {
+      background-color: black;
+    }
+
+    /*open menu text*/
+    #menu-mobile {
+      position: fixed;
+    }
+
+    #menu-mobile ul li a:link,
+    #menu-mobile ul li a:visited,
+    #menu-mobile ul li a:active,
+    #menu-mobile ul li a {
+      color: white;
+      font-family: "GTWalsheim Black";
+      text-decoration: none;
+      margin-left: 40px;
+    }
+
+    /*open menu text hover*/
+    #menu-mobile ul li a:hover {
+      color: #7C59ED;
+    }
+  </style>
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="hamburger">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  <div id="lng"></div>
+  <div id="menu-mobile"></div>
+  <div id="root"></div>
+  <script>
+    getMenu();
+  </script>
+</body>
+
+</html>

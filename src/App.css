@@ -1,0 +1,40 @@
+@import './css/typography/Paragraph/paragraph.css';
+@import './css/typography/Headlines/headlines.css';
+@import './css/pages/caseStudies/case-studies.css';
+@import './css/pages/caseStudies/caseStudy/case-study.css';
+@import './css/pages/caseStudies/Filters/case-studies-filters.css';
+@import './css/pages/caseStudyDetails/case-study-details.css';
+@import './css/pages/caseStudyDetails/section/section.css';
+@import './css/components/Button/button.css';
+@import './css/components/Header/header.css';
+@import './css/components/Footer/footer.css';
+@import './css/components/Authors/authors.css';
+@import './css/components/Image/image.css';
+@import './css/components/Quote/quote.css';
+@import './css/pages/caseStudyDetails/navi/navi.css';
+@import './css/components/Exclemation/exclemation.css';
+@import './css/components/Video/video.css';
+
+@font-face {
+    font-family: "GTWalsheim Regular";
+    src: url("./assets/fonts/GTWalsheim-Regular.woff2") format("woff2")
+}
+
+@font-face {
+    font-family: "GTWalsheim Medium";
+    src: url("./assets/fonts/GTWalsheim-Medium.woff2") format("woff2")
+}
+
+@font-face {
+    font-family: "GTWalsheim Black";
+    src: url("./assets/fonts/GTWalsheim-Black.woff2") format("woff2")
+}
+
+.App {
+    font-family: "GTWalsheim Regular";
+    color: black;
+}
+
+a {
+    word-break: break-word;
+}

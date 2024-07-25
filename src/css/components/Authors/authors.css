@@ -1,0 +1,52 @@
+.authors {
+  margin-top: 32px;
+  margin-bottom: 80px;
+}
+@media (max-width: 767px) {
+  .authors {
+    margin-bottom: 60px;
+  }
+}
+@media (max-width: 575px) {
+  .authors {
+    margin-bottom: 50px;
+  }
+}
+.authors-insights {
+  font-family: "GTWalsheim Medium";
+  font-size: 14px;
+  line-height: 22px;
+  text-transform: uppercase;
+  opacity: 0.6;
+  display: block;
+  margin-bottom: 16px;
+}
+.authors-mobile {
+  display: flex;
+  overflow: auto;
+}
+.author {
+  display: flex;
+  align-items: center;
+  margin-bottom: 24px;
+  flex: 0 0 auto;
+}
+@media (max-width: 575px) {
+  .author {
+    margin-bottom: 0;
+    margin-right: 20px;
+  }
+}
+.author img {
+  width: 74px;
+  height: 74px;
+  border-radius: 50%;
+  margin-right: 16px;
+}
+.author-info span {
+  display: block;
+  line-height: 26px;
+}
+.author-info span:last-child {
+  opacity: 0.6;
+}
