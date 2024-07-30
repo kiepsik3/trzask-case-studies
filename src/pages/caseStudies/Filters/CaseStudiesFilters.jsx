@@ -29,6 +29,7 @@ export function CaseStudiesFilters(props) {
                   id={ft}
                   onChange={props.onFilterChange}
                   type="checkbox"
+                  checked={props.activeFilters.includes(ft)}
                 />
                 <label htmlFor={ft}>{ft}</label>
               </div>
@@ -45,6 +46,7 @@ export function CaseStudiesFilters(props) {
                   id={fc}
                   onChange={props.onFilterChange}
                   type="checkbox"
+                  checked={props.activeFilters.includes(fc)}
                 />
                 <label htmlFor={fc}>{fc}</label>
               </div>

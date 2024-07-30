@@ -5,12 +5,19 @@ import Paragraph from "../../typography/Paragraph/Paragraph";
 import CaseStudy from "./caseStudy/CaseStudy";
 import Button from "../../components/Button/Button";
 import { CaseStudiesFilters } from "./Filters/CaseStudiesFilters";
+import { useLocation, useHistory } from "react-router-dom";
 import "./case-studies.less";
 
 export default function CaseStudies(props) {
+  const location = useLocation();
+  const history = useHistory();
+  const queryParamsFilters = new URLSearchParams(location.search);
+
   const { title, caption, img, alt, items } = props;
   const [itemsAmount, setItemsAmount] = useState(5);
-  const [filters, setFilters] = useState([]);
+  const [filters, setFilters] = useState(
+    queryParamsFilters.get("filters")?.split(",") || [],
+  );
 
   useEffect(() => {
     const data = window.localStorage.getItem("itemsAmount");
@@ -33,6 +40,12 @@ export default function CaseStudies(props) {
     filters.every((tag) => item.tags?.includes(tag)),
   );
 
+  useEffect(() => {
+    history.push({
+      search: filters.length > 0 ? `?filters=${filters.join()}` : "",
+    });
+  }, [filters]);
+
   return (
     <div className="case-studies">
       <Container>
@@ -52,7 +65,10 @@ export default function CaseStudies(props) {
         </Row>
       </Container>
 
-      <CaseStudiesFilters onFilterChange={onFilterChange} />
+      <CaseStudiesFilters
+        onFilterChange={onFilterChange}
+        activeFilters={filters}
+      />
 
       <Container>
         {filters.length > 0 ? (
