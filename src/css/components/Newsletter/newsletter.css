@@ -1,0 +1,120 @@
+.newsletter-wrapper {
+  border-top: 1px solid #E4E4E4;
+}
+.newsletter-wrapper .newsletter {
+  display: flex;
+  align-items: center;
+  gap: 72px;
+  margin-top: 36px;
+  margin-bottom: 36px;
+}
+@media screen and (max-width: 1023px) {
+  .newsletter-wrapper .newsletter {
+    gap: 36px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .newsletter-wrapper .newsletter {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+.newsletter-wrapper .newsletter .info {
+  max-width: 286px;
+}
+.newsletter-wrapper .newsletter .info.status {
+  max-width: max-content;
+}
+.newsletter-wrapper .newsletter .info h2 {
+  font-family: "GTWalsheim Black";
+  font-size: 32px;
+  line-height: 42px;
+}
+.newsletter-wrapper .newsletter .info p {
+  font-size: 18px;
+  color: #A1A1A1;
+}
+.newsletter-wrapper .newsletter img {
+  margin-left: auto;
+}
+@media screen and (max-width: 767px) {
+  .newsletter-wrapper .newsletter img {
+    margin-left: 0;
+  }
+}
+.newsletter-wrapper .newsletter form {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 8px;
+  flex-basis: 572px;
+}
+@media screen and (max-width: 767px) {
+  .newsletter-wrapper .newsletter form {
+    flex-direction: column;
+    flex-basis: auto;
+    align-self: stretch;
+  }
+}
+.newsletter-wrapper .newsletter form input {
+  font-family: "GTWalsheim Black";
+  font-size: 18px;
+  color: black;
+  margin-right: 8px;
+  padding: 12px 20px;
+  border: 3px solid #7C59ED;
+  flex-grow: 1;
+  outline: none;
+  transition: all 0.3s;
+}
+@media screen and (max-width: 767px) {
+  .newsletter-wrapper .newsletter form input {
+    margin-right: 0;
+  }
+}
+.newsletter-wrapper .newsletter form input::placeholder {
+  color: black;
+}
+.newsletter-wrapper .newsletter form input:focus {
+  background-color: #f0ebff;
+}
+.newsletter-wrapper .newsletter form button {
+  font-family: "GTWalsheim Black";
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  color: black;
+  margin-top: auto;
+  padding: 12px 28px;
+  border: 3px solid #7C59ED;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: all 0.3s;
+}
+.newsletter-wrapper .newsletter form button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.newsletter-wrapper .newsletter form button svg {
+  margin-left: 8px;
+}
+.newsletter-wrapper .newsletter form .checkbox {
+  flex-basis: 100%;
+  margin-top: 16px;
+}
+.newsletter-wrapper .newsletter form .checkbox input[type=checkbox] {
+  display: none;
+}
+.newsletter-wrapper .newsletter form .checkbox input[type=checkbox] + label {
+  font-size: 16px;
+  padding-left: 30px;
+  background: url("/src/assets/img/checkbox.svg") no-repeat;
+  color: #A1A1A1;
+  cursor: url("/src/assets/img/hand.png") 0 0, auto;
+  transition: all 0.3s;
+}
+.newsletter-wrapper .newsletter form .checkbox input[type=checkbox] + label a {
+  text-decoration: underline;
+}
+.newsletter-wrapper .newsletter form .checkbox input[type=checkbox]:checked + label {
+  background: url("/src/assets/img/checkbox-violet-checked.svg") no-repeat !important;
+}

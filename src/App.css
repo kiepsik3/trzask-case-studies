@@ -14,6 +14,8 @@
 @import './css/pages/caseStudyDetails/navi/navi.css';
 @import './css/components/Exclemation/exclemation.css';
 @import './css/components/Video/video.css';
+@import './css/components/Menu/menu.css';
+@import './css/components/Newsletter/newsletter.css';
 
 @font-face {
     font-family: "GTWalsheim Regular";

@@ -2,1558 +2,75 @@
   "title": "Trzask stories",
   "caption": "Poznaj kreatywny świat Trzaska pełen niesamowitych historii, szalonych pomysłów i nieszablonowych projektów, które dadzą Ci zastrzyk inspiracji i chęci działania!",
   "img": "/images/monster.svg",
+  "menu": [
+    {
+      "name": "KTO TO?",
+      "slug": "/about"
+    },
+    {
+      "name": "CO POTRAFI?",
+      "items": [
+        {
+          "name": "Animacje 3D",
+          "slug": "/animacje-3d"
+        },
+        {
+          "name": "Efekty specjalne",
+          "slug": "/efekty-specjalne"
+        },
+        {
+          "name": "Richmedia",
+          "slug": "/richmedia"
+        },
+        {
+          "name": "Social Media Video",
+          "slug": "/social-media-video"
+        },
+        {
+          "name": "HMTL 5",
+          "slug": "/html5"
+        },
+        {
+          "name": "Montaż i lokalizacja",
+          "slug": "/montaz-i-lokalizacja"
+        },
+        {
+          "name": "Mini Gry",
+          "slug": "/mini-gry"
+        },
+        {
+          "name": "Reklamy do TV i Kina",
+          "slug": "/reklamy-do-tv-i-kina"
+        },
+        {
+          "name": "Animacje eventowe i LED",
+          "slug": "/animacje-eventowe-i-LED"
+        }
+      ]
+    },
+    {
+      "name": "JEGO PROJEKTY",
+      "slug": "/case-studies"
+    },
+    {
+      "name": "CO NOWEGO?",
+      "slug": "/blog"
+    },
+    {
+      "name": "KONTAKT",
+      "slug": "/contact"
+    }
+  ],
   "items": [
-    {
-      "slug": "Influencer Donut",
-      "tag": "Influencer Donut",
-      "tags": [
-        "HTML5",
-        "3D"
-      ],
-      "title": "Najsłodsza gwiazda w Internecie",
-      "caption": [
-        "#design #animation ",
-        "Niesamowita historia donuta, który podbija serca internautów w animacji 3D na social media"
-      ],
-      "img": "/images/case-donut-influ/Donut_Influencer_header_v1b.jpg",
-      "description": [
-        [
-          {
-            "paragraph": "Jeśli szukacie w sieci inspirujących influencerów, którzy błyszczą na streamach i wrzucają content dosłownie ociekający słodyczą, to tego gościa pokochacie na pewno. Poznajcie Influencera Donuta! 🍩✨"
-          }
-        ],
-        [
-          {
-            "paragraph": "Dooti Donuts zwróciło się do nas z prośbą o stworzenie krótkiej animacji do social mediów, która zaprezentuje ich najnowszą lukrowaną gwiazdę w akcji i rozleje jej słodycz po krańce Internetu."
-          }
-        ]
-      ],
-      "fancyImg": {
-        "src": "/images/fancy1.svg",
-        "position": "left",
-        "value": -200,
-        "top": -30
-      },
-      "authors": [
-        {
-          "name": "Piotr Bielecki",
-          "role": "Owner and Head of Trzask",
-          "img": "/images/piotr.jpg"
-        },
-        {
-          "name": "Paweł Grabowski",
-          "role": "Lead animator",
-          "img": "/images/pawel.jpg"
-        },
-        {
-          "name": "Łukasz Urban",
-          "role": "Art director",
-          "img": "/images/lukasz.jpg"
-        }
-      ],
-      "sections": [
-        {
-          "video": {
-            "ytId": "0DQcPPZFmZU",
-            "autoplay": 0,
-            "mute": 0,
-            "loop": 1,
-            "caption": "Dooti Donuts - Influencer / Production: Trzask Studio (art direction, vfx, sound, animation, 3d modeling) 2023",
-            "withBackground": false
-          }
-        },
-        {
-          "span": 5,
-          "left": [
-            {
-              "title": "Narodziny donutowej gwiazdy",
-              "description": [
-                [
-                  {
-                    "paragraph": "Influencer Donut to okrąglutki słodziak z bajecznie pyszną polewą o smaku truskawkowego shake’a, który ma więcej uroku i charyzmy niż niejeden celebryta. Jest na salonach... to znaczy, na sklepowych półkach od niedawna, ale już robi sporo zamieszania. Nowy w dootidonutowej paczce ma w sobie coś wyjątkowego. To pierwszy donut całkowicie stworzony przez fanów Dooti Donuts w "
-                  },
-                  {
-                    "link": "https://dootidonuts.pl/GENZIE/game.html",
-                    "text": "specjalnym kreatorze ",
-                    "target": "_blank"
-                  },
-                  {
-                    "link": "https://trzask.com/pl/case-studies/dooti-donuts",
-                    "text": "naszego autorstwa",
-                    "target": "_blank"
-                  },
-                  {
-                    "paragraph": "."
-                  }
-                ],
-                [
-                  {
-                    "paragraph": "Taki potencjał trzeba było wykorzystać! Klientowi zależało, żeby animacja przykuwała wzrok modnymi motywami i pulsowała młodzieżowym vibem. Postanowiliśmy zabrać widzów na backstage pracy Influencera Donuta i w szalonej animacji pokazać, jak nasza słodka gwiazda wylewa siódme lukry, żeby zdobyć wasze serca i lajki. 👍❤️"
-                  }
-                ]
-              ]
-            }
-          ],
-          "right": [
-            {
-              "exclemation": {
-                "text": [
-                  "Cel nadrzędny:",
-                  "stworzenie kreatywnej animacji 3D launchującej nowego donuta, oddającej jego wyjątkowość i infulencerski charakter"
-                ]
-              }
-            }
-          ],
-          "img": {
-            "src": "/images/case-donut-influ/Donut_Influencer_gif6.webp",
-            "withBackground": true
-          }
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Dzień z życia influ-donuta",
-              "description": [
-                [
-                  {
-                    "paragraph": "Bazą materiału wideo było stworzenie trójwymiarowego puszystego i apetycznego Influencera Donuta w trzech pozycjach. Potem wybraliśmy kilka scen wyjętych z życia typowej gwiazdy internetu, dodaliśmy Donuta i zanimowaliśmy go w rzeczywistej płaszczyźnie. I tak nasza truskawkowo-lukrowa osobowość internetowa pokazała, jak profesjonalnie pozuje do zdjęć, podjęła challenge godny wytrawnego jogina i zdradziła kilka sekretów na streamie."
-                  }
-                ],
-                [
-                  {
-                    "paragraph": "W poszczególnych scenach wyeksponowaliśmy influencerskie credo: styl, challenge, live i zabawę, które z hasłem naszego klienta ‘na okrągło’ stworzyły zupełnie nowe, inspirujące, donatowe influ-uniwersum. Sceny wypełniliśmy słodkimi jak truskawkowy shake kolorami i połączyliśmy kreatywnymi przejściami. Dla podkreślenia klimatu dodaliśmy neutralną, ale wpadającą w ucho muzykę, a na deser podkręciliśmy magię Influencera Donuta odrobiną blasku. ✨"
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "“Pomysł na animację był prosty - pokazać typowe życie zupełnie nietypowego influencera. Sięgnęliśmy po kojarzące się z tematem sceny, ale zamiast ludzkich postaci wkleiliśmy animację 3D truskawkowego donuta. Efekt robi wrażenie!”",
-                "author": {
-                  "name": "Piotr",
-                  "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
-                  "img": "/images/piotr.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/case-donut-influ/Donut_Influencer_gif1.webp"
-              }
-            }
-          ]
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Koniecznie zostawcie suba!",
-              "description": [
-                [
-                  {
-                    "paragraph": "Finalnie niezwykłe połączenie wirtualnego świata influencerów z zupełnie rzeczywistą słodyczą donuta sprawiło, że animacja stała się ekscytującą wycieczką do uniwersum Influencera Donuta - nowej, niekwestionowanej gwiazdy sieci. Wymiary wideo dostosowaliśmy do różnych platform społecznościowych, a jego przekaz kreatywnie wpisaliśmy w aktualne trendy w social mediach. Praca nad animacją to była słodka przyjemność! "
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "“Najbardziej podoba mi się, jak nasz donut świetnie zadomowił się w realnym świecie. Dobrze radzi sobie przed obiektywem i z jaką lekkością lewituje! Co prawda ze studia musieliśmy wyeksmitować innych influencerów, aby nasz donut mógł spokojnie rozwijać swoją karierę, ale warto było!”",
-                "author": {
-                  "name": "Paweł",
-                  "role": "Odpowiedzialny za animację",
-                  "img": "/images/pawel.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/case-donut-influ/Donut_Influencer_gif3.webp"
-              }
-            }
-          ],
-          "quote": {
-            "text": "„Ekstra motyw - przenosimy wirtualnego donuta do rzeczywistości na kolejnej płaszczyźnie! Magia w stylu Trzaska!”",
-            "author": {
-              "name": "Mateusz Gradziński",
-              "role": "Brand manager",
-              "img": "/images/posts/logo_dooti.jpg"
-            },
-            "top": true,
-            "bold": true,
-            "fancyImg": {
-              "src": "/images/fancy4.svg",
-              "position": "left",
-              "value": -40,
-              "top": 64
-            }
-          }
-        }
-      ]
-    },
-    {
-      "slug": "Tymbark Deli&Fruits",
-      "tag": "Tymbark Deli&Fruits",
-      "tags": [
-        "3D"
-      ],
-      "title": "Reklama, której smak możesz poczuć!",
-      "caption": [
-        "#design #animation #richmedia",
-        "Musowe szaleństwo z Tymbark Deli&Fruits! Spot 3D o nadzwyczajnych smakach."
-      ],
-      "img": "/images/tymbark/cover.jpg",
-      "description": [
-        [
-          {
-            "paragraph": "Słyszysz "
-          },
-          {
-            "link": "https://tymbark.com/",
-            "text": "Tymbark",
-            "target": "_blank"
-          },
-          {
-            "paragraph": ", myślisz “mmmmm”! To właśnie ten dźwięk stał się tematem przewodnim 15-sekundowego filmu promocyjnego, który stworzyliśmy dla marki Tymbark. Grupa Maspex zwróciła się do nas z prośbą o stworzenie kreatywnego spotu reklamującego lekką przekąskę w formie musu Deli&Fruits w 3 niebanalnych smakach!"
-          }
-        ]
-      ],
-      "fancyImg": {
-        "src": "/images/fancy1.svg",
-        "position": "left",
-        "value": -200,
-        "top": -30
-      },
-      "authors": [
-        {
-          "name": "Piotr Bielecki",
-          "role": "Owner and Head of Trzask",
-          "img": "/images/piotr.jpg"
-        },
-        {
-          "name": "Paweł Grabowski",
-          "role": "Lead animator",
-          "img": "/images/pawel.jpg"
-        },
-        {
-          "name": "Joanna Jakobielska",
-          "role": "Business Development Director",
-          "img": "/images/joanna.jpg"
-        }
-      ],
-      "sections": [
-        {
-          "video": {
-            "ytId": "gNKtVruLx3Q",
-            "autoplay": 0,
-            "mute": 0,
-            "loop": 1,
-            "caption": "Tymbark Deli&Fruits. Kiedy muuuusisz coś słodkiego... / Production: Trzask Studio (vfx, sound, animation, 3D, storyboard) 2023",
-            "withBackground": false
-          }
-        },
-        {
-          "span": 5,
-          "left": [
-            {
-              "title": "WyMUUUUSkany scenariusz",
-              "description": [
-                [
-                  {
-                    "paragraph": "Na start dostaliśmy key visual i packshoty. Ma być smacznie, lekko, błogo i przyjemnie. Aby podkreślić smakowitość musów wykorzystaliśmy kawałki soczystych wiśni, chrupiących herbatników, kuszące wiórki kokosowe i plastry dojrzałych bananów. Czy już jesteście poruszeni? "
-                  }
-                ]
-              ]
-            }
-          ],
-          "right": [
-            {
-              "exclemation": {
-                "text": [
-                  "Cel nadrzędny:",
-                  "Pobudzić kubki smakowe odbiorców lekko i przyjemnie."
-                ]
-              }
-            }
-          ],
-          "img": {
-            "src": "/images/tymbark/tymbark_gif.gif",
-            "withBackground": true
-          }
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Trzy wymiary i dźwięk",
-              "description": [
-                [
-                  {
-                    "paragraph": "Wiedzieliśmy, że materiał ma w 15 sekund pobudzić zmysły i kubki smakowe widzów, ale przede wszystkim na chwilę przejąć kontrolę nad ich wyobraźnią. Stworzyliśmy animację 3D, w której dodatki smakowe wpadają do leniwie wirującej masy, zatapiają się i mmmm… na oczach widza tworzą ultradelikatny mus."
-                  }
-                ],
-                [
-                  {
-                    "paragraph": "Wykorzystaliśmy miękką teksturę i płynny ruch składników musu, żeby oddać lekkość produktu. Zawiesiliśmy produkty w stanie nieważkości, a głęboki głos lektora i relaksująca, lifestylowa muzyka zrobiła swoje!"
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "„Wyzwanie przed jakim postawił nas Tymbark było niesamowicie trudne, wpadanie owocow do musu oraz ich interakcja z otoczeniem to godziny spedzone na postprodukcji”",
-                "author": {
-                  "name": "Piotr",
-                  "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
-                  "img": "/images/piotr.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/tymbark/tymbark_owoce_gif.gif"
-              }
-            }
-          ]
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Przyjemność, która trwa",
-              "description": [
-                [
-                  {
-                    "paragraph": "Animacja 3D, wypełniona smakiem i energią, przyciągnęła uwagę nie tylko widzów w internecie, ale także tych przed ekranami telewizorów. Nasza praca stała się dumą dla całego zespołu, a smakowita podróż po świecie Deli&Fruits zachęciła widzów do spróbowania tych lekkich smakołyków!  "
-                  }
-                ]
-              ]
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/tymbark/tymbarkg_gif4.gif"
-              }
-            }
-          ],
-          "quote": {
-            "text": "Praca z Waszym zespołem była sprawna, kreatywna i na czas. Czyli w skrócie - TRZASK :)",
-            "author": {
-              "name": "Michał Makowski",
-              "role": "Senior Brand Manager Tymbark",
-              "img": "/images/tymbark/logo tymbark.jpeg"
-            },
-            "fancyImg": {
-              "src": "/images/fancy3.svg",
-              "position": "left",
-              "value": -90,
-              "top": 48
-            }
-          }
-        }
-      ]
-    },
-    {
-      "slug": "DyingLight2StayHuman-Pilgrim",
-      "tag": "Dying Light 2 Stay Human",
-      "title": "Animacja rodem z apokalipsy",
-      "caption": [
-        "#animation #games",
-        "Jak zaprezentować nową platformę fanom gry tak, by się w niej zakochali? Sprawdź nasze nowe case study Dying Light 2 Stay Human!"
-      ],
-      "img": "/images/Pilgrim/DL2_PilgrimOutpost_cover.jpg",
-      "description": [
-        [
-          {
-            "paragraph": "Jak dosłownie zarazić fanów nowym serwisem gry? Słowo, które użyliśmy, absolutnie nie jest przypadkowe, ponieważ idealnie wpasowuje się w tematykę, o której dzisiaj mówimy. A jest nią… Dying Light 2 Stay Human, oczywiście!"
-          }
-        ],
-        [
-          {
-            "paragraph": "Jeden z projektów, przy którym mamy szczęście pracować, należy do firmy "
-          },
-          {
-            "link": "https://techland.net/",
-            "text": "Techland",
-            "target": "_blank"
-          },
-          {
-            "paragraph": ", topowego twórcy gier na świecie. Tym razem otrzymaliśmy za zadanie opowiedzieć graczom, na czym polega platforma, znana jako "
-          },
-          {
-            "link": "https://pilgrimoutpost.techlandgg.com/",
-            "text": "Pilgrim Outpost",
-            "target": "_blank"
-          },
-          {
-            "paragraph": "."
-          }
-        ],
-        []
-      ],
-      "fancyImg": {
-        "src": "/images/fancy1.svg",
-        "position": "left",
-        "value": -200,
-        "top": -30
-      },
-      "authors": [
-        {
-          "name": "Piotr Bielecki",
-          "role": "Owner and Head of Trzask",
-          "img": "/images/piotr.jpg"
-        },
-        {
-          "name": "Paweł Grabowski",
-          "role": "Lead animator",
-          "img": "/images/pawel.jpg"
-        },
-        {
-          "name": "Łukasz Urban",
-          "role": "Art director",
-          "img": "/images/lukasz.jpg"
-        }
-      ],
-      "sections": [
-        {
-          "video": {
-            "ytId": "D_WXbTjhhnI",
-            "autoplay": 0,
-            "mute": 0,
-            "loop": 1,
-            "withBackground": false,
-            "caption": "Dying Light 2 Stay Human - Pilgrim Outpost / Production: Trzask Studio (animation, 2D/3D), Techland (script, gameplay) 2023 "
-          }
-        },
-        {
-          "span": 5,
-          "left": [
-            {
-              "title": "Nowa misja odblokowana",
-              "description": [
-                [
-                  {
-                    "paragraph": "Zadanie, które otrzymaliśmy, brzmiało prosto: stworzyć niesamowity trailer, który zaintryguje graczy i pomoże wprowadzić ich do nowego serwisu z grą "
-                  },
-                  {
-                    "link": "https://dyinglightgame.com/pl/",
-                    "text": "Dying Light 2 Stay Human",
-                    "target": "_blank"
-                  },
-                  {
-                    "paragraph": "."
-                  }
-                ],
-                [
-                  {
-                    "paragraph": "Pilgrim Outpost jest nową platformą, która pozwala graczom zdobywać punkty za wykonywanie zadań w grze, a następnie wymieniać je na różne nagrody. Naszym zadaniem było stworzenie filmu, który nie tylko zainteresuje graczy, ale także wyjaśni im zasady nowego systemu."
-                  }
-                ]
-              ]
-            }
-          ],
-          "right": [
-            {
-              "exclemation": {
-                "text": [
-                  "Cel nadrzędny:",
-                  "stworzyć animację rodem z postapokalipsy, która zachęci graczy do skorzystania z platformy Pilgrim Outpost."
-                ]
-              }
-            }
-          ],
-          "img": {
-            "src": "/images/Pilgrim/DL2_Pilgrim_gif1.gif",
-            "withBackground": true,
-            "caption": "Sekwencje video dostarczone przez Techland."
-          }
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Quest - stworzyć animację",
-              "description": [
-                [
-                  {
-                    "paragraph": "Film powstał na bazie scenariusza i krótkich ujęć wideo z postacią, wygenerowanych z silnika gry i dostarczonych przez zespół Techland."
-                  }
-                ],
-                [
-                  {
-                    "paragraph": " Ale to nie wszystko - nie byliśmy w stanie się powstrzymać i nie dodać od siebie iskry trzaskowej kreatywności! "
-                  },
-                  {
-                    "paragraph": "Tym razem w postaci modeli 3D czy efektownych podświetleń."
-                  },
-                  {
-                    "paragraph": " A wszystko po to, by jak najbardziej przyciągnąć oko odbiorcy i skupić jego uwagę na kluczowych elementach! "
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "„Pomysły urozmaicające wideo rozkręcały się przez cały proces powstawania projektu. A to podświetlenie tekstu na końcu, a to animacja skrzyni z bronią w 3D, czy podkręcenie przejścia i zgranie wszystkiego mocniej z muzyką. Proces kreatywny nie kończy się na koncepcji - on się wtedy dopiero zaczyna!”",
-                "author": {
-                  "name": "Łukasz",
-                  "role": "Odpowiedzialny za wizję artystyczną",
-                  "img": "/images/lukasz.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/Pilgrim/DL2_Pilgrim_gif3.gif"
-              }
-            }
-          ]
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Animacja rodem z postapokalipsy",
-              "description": [
-                [
-                  {
-                    "paragraph": "Gotowa animacja przeszła nasze najśmielsze oczekiwania! Film nie tylko zwracał na siebie uwagę, ale też sceny dodawały emocji do samej narracji. Jednym z efektów, z których jesteśmy najbardziej dumni jest efekt zarażającej maski, który odsłaniał kolejne sekcje historii i oddawał atmosferę grozy, jaką gracze doświadczają w Dying Light 2 Stay Human. Ten niesamowity efekt zakrywania podkreśla rozprzestrzeniającą się zarazę, z którą walczymy w grze!"
-                  }
-                ],
-                [
-                  {
-                    "paragraph": "Animacje 3D to również nasza zasługa! Moment z rozrzucaniem tokenów czy efektowny obrót skrzynią wyszły spod naszych rąk, mając jedynie zdjęcia frontalne. Te smaczki zrobiły niesamowitą dynamikę podczas opowieści.  A sprytne połączenie gameplaya z serwisem i animacją tokenów w płynny sposób przedstawiły zalety serwisu, który ma zbudować jeszcze ciekawsze doświadczenia dla gracza."
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "„W finałowych momentach filmu wykorzystaliśmy motyw migoczącego światła. Jest to mega prosty i efektowny trik, który ma mocniej skupić uwagę na logotypie i przycisku z call to action.”",
-                "author": {
-                  "name": "Paweł",
-                  "role": "Odpowiedzialny za animację",
-                  "img": "/images/pawel.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/Pilgrim/DL2_Pilgrim_gif2.gif"
-              }
-            }
-          ]
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Misja zakończona sukcesem",
-              "description": [
-                [
-                  {
-                    "paragraph": "Efekty naszej pracy zostały zaprezentowane na streamie promującym nową platformę, który cieszył się ogromnym zainteresowaniem społeczności graczy! "
-                  }
-                ],
-                [
-                  {
-                    "paragraph": "Możliwość dodania od siebie kolejnej, małej cegiełki do gry, którą uwielbiamy, jest czymś, co zawsze sprawia nam ogrom radości!"
-                  }
-                ]
-              ]
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/Pilgrim/DL2_Pilgrim_gif4.gif"
-              }
-            }
-          ]
-        },
-        {
-          "video": {
-            "ytId": "GxZhWCbTp1o",
-            "autoplay": 0,
-            "mute": 0,
-            "loop": 1,
-            "withBackground": true,
-            "caption": "Gut Feeling Update Stream, Developer Segment - Dying Light 2 Stay Human / Pilgrim (11')"
-          },
-          "quote": {
-            "text": "„Animację tworzyliśmy na potrzeby streama na Twitchu, gdzie miała mieć ona swoją premierę, jako część większej transmisji i zaprezentować społeczności nową platformę z super korzyściami dla użytkowników. Chcieliśmy stworzyć coś, co pokaże graczom, jak niesamowite nagrody mogą zdobyć i sprawi, że będą chcieli skorzystać z Pilgrim Outpost.”",
-            "author": {
-              "name": "Piotr",
-              "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
-              "img": "/images/piotr.jpg"
-            },
-            "fancyImg": {
-              "src": "/images/fancy2.svg",
-              "position": "right",
-              "value": -100,
-              "top": 36
-            },
-            "top": true
-          }
-        },
-        {
-          "img": {
-            "src": "/images/Pilgrim/DL2_PilgrimOutpost_bottom.jpg",
-            "withBackground": false
-          },
-          "quote": {
-            "text": "„Zespół Trzask jak zwykle pozytywnie nas zaskoczył swoją kreatywnością. Proaktywne i profesjonalne podejście do tak ważnego projektu, jakim jest Pilgrim Outpost, to jest coś, co jest dla nas szczególnie istotne. Nieszablonowa postawa teamu Piotra pozwoliła na stworzenie świetnej animacji, która idealnie odzwierciedla świat Dying Light 2 Stay Human.”",
-            "author": {
-              "name": "Magda Marcinkowska",
-              "role": "Digital Producer - Team Lead, Techland",
-              "img": "/images/logo_tech.jpg"
-            },
-            "top": true,
-            "bold": true,
-            "fancyImg": {
-              "src": "/images/fancy4.svg",
-              "position": "left",
-              "value": -40,
-              "top": 64
-            }
-          }
-        }
-      ]
-    },
-    {
-      "slug": "dooti-donuts",
-      "tag": "Dooti Donuts",
-      "title": "Stwórz własnego donuta, a on powie Ci co o tym myśli",
-      "caption": [
-        "#design #animation",
-        "Jedni chcieliby rozmawiać ze zwierzętami, my chcielibyśmy pogadać z donutami! Przeczytaj case study Dooti Donuts i dowiedz się, jak tego dokonaliśmy!"
-      ],
-      "img": "/images/donut_genzie_header_v3 (2).jpg",
-      "description": [
-        [
-          {
-            "paragraph": "Zastanawiasz się czasem, jakby to było porozmawiać z donutem? My tak i możemy szczerze powiedzieć, że taka rozmowa byłaby mega ciekawa! A wiemy to na pewno, bo właśnie "
-          },
-          {
-            "link": "https://dootidonuts.pl/GENZIE/",
-            "text": "takiego donuta",
-            "target": "_blank"
-          },
-          {
-            "paragraph": " stworzyliśmy w oparciu o słodko-sztuczną inteligencję i persony naszych odbiorców. Co ciekawe nasz kreator wywalczył sobie statuetkę w konkursie "
-          },
-          {
-            "link": "https://mixx-awards.pl/",
-            "text": "MIXX Awards",
-            "target": "_blank"
-          },
-          {
-            "paragraph": " 2023!"
-          }
-        ],
-        [
-          {
-            "paragraph": "Czytaj dalej, a dowiesz się, jak powstał jeden z najbardziej ambitnych projektów naszego studia, w którym użytkownicy wygenerowali 2,3 mln zdarzeń na stronie internetowej, a w ramach Facebookowego konkursu stworzonych zostało 56 tysięcy kolorowych donutów. "
-          }
-        ]
-      ],
-      "fancyImg": {
-        "src": "/images/fancy1.svg",
-        "position": "left",
-        "value": -200,
-        "top": -30
-      },
-      "authors": [
-        {
-          "name": "Piotr Bielecki",
-          "role": "Owner and Head of Trzask",
-          "img": "/images/piotr.jpg"
-        },
-        {
-          "name": "Weronika Bielecka",
-          "role": "Project Manager",
-          "img": "/images/weronika.jpg"
-        },
-        {
-          "name": "Łukasz Urban",
-          "role": "Art director",
-          "img": "/images/lukasz.jpg"
-        },
-        {
-          "name": "Mariusz Walach",
-          "role": "Animator",
-          "img": "/images/mariusz.jpg"
-        }
-      ],
-      "sections": [
-        {
-          "video": {
-            "ytId": "vJ1wzxhusnM",
-            "autoplay": 0,
-            "mute": 0,
-            "loop": 1,
-            "caption": "Dooti Donuts - Creator App / Production: Trzask Studio (concept, design, animation, programming, 3D), Stokson - brand owner (coordination of works), Get Hero (influencer materials), Adheads (promoting the competition, managing social media) 2023",
-            "withBackground": false
-          }
-        },
-        {
-          "span": 5,
-          "left": [
-            {
-              "title": "Jak szalone pomysły stają się prawdą",
-              "description": [
-                [
-                  {
-                    "paragraph": "Pierwszym etapem w naszych projektach są zawsze research, inspiracja i koncepcja. Tak też postąpiliśmy, gdy otrzymaliśmy od "
-                  },
-                  {
-                    "link": "https://dootidonuts.pl/d/",
-                    "text": "Dooti Donuts",
-                    "target": "_blank"
-                  },
-                  {
-                    "paragraph": " brief na stworzenie interaktywnej zabawy na stronę marki. Wspólnie zdecydowaliśmy, że zaprojektujemy kreator, w którym odbiorcy będą mogli wykonać własnego, wymarzonego donuta. Ale to nie wszystko! Donuty miały mieć własne osobowości i mówić do ludzi!"
-                  }
-                ]
-              ]
-            }
-          ],
-          "right": [
-            {
-              "exclemation": {
-                "text": [
-                  "Cel nadrzędny:",
-                  "Pogadać z donutem!"
-                ]
-              }
-            }
-          ],
-          "img": {
-            "src": "/images/posts/donut_foto_3d.jpg",
-            "withBackground": false
-          },
-          "quote": {
-            "text": "„Koncepcja z ożywieniem osobowości donuta mocno nas nakręciła. Obmyślenie wizji, projektowanie kilkuset wariantów postaci, animacja kilkudziesięciu sytuacji oraz programowanie mechanizmu konkursowego było niesamowitym wyzwaniem. Kto jak nie my? Jazda!”",
-            "author": {
-              "name": "Piotr",
-              "role": "Odpowiedzialny za oprogramowanie oraz dyrekcję artystyczną",
-              "img": "/images/piotr.jpg"
-            },
-            "fancyImg": {
-              "src": "/images/fancy2.svg",
-              "position": "right",
-              "value": -100,
-              "top": 36
-            },
-            "top": true
-          }
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Personifikacja odbiorców w słodkiej odsłonie",
-              "description": [
-                [
-                  {
-                    "paragraph": "Aby mocniej wpasować się w głowy graczy, stworzyliśmy cztery persony donuta, które diametralnie różniły się między sobą. Zmieniało się ich zachowanie oraz słownictwo, kojarzące się z konkretnymi cechami behawioralnymi danych społeczności pasujących do grupy docelowej. Łącznie, wymyśliliśmy prawie 80 tekstów dla naszych donutów, które odpowiadały na najróżniejsze scenariusze i sytuacje. "
-                  }
-                ],
-                [
-                  {
-                    "paragraph": "Nie mogło też zabraknąć elementów sprzedażowych. Jeśli ułożysz docelowe ‘ubranko’ realnego donuta z oferty Dooti Donuts to nasz kolega zaprosi Cię na zakupy do sklepu i powie jak się nazywa! (np Cookies)."
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "„Uwielbiamy easter egg’i! Dlatego tutaj też nie mogło ich zabraknąć! Donut po wybraniu odpowiedniej sekwencji elementów otrzymuje prawdziwy złoty łańcuch. Nie bylibyśmy sobą gdybyśmy nie dodali kilku ‘wisienek’ w tym projekcie.”",
-                "author": {
-                  "name": "Weronika",
-                  "role": "Odpowiedzialna za koordynację projektu",
-                  "img": "/images/weronika.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/posts/Donut_Genzie_Gif011.gif"
-              }
-            }
-          ]
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Słodko-sztuczna inteligencja w grze",
-              "description": [
-                [
-                  {
-                    "paragraph": "Donuty w "
-                  },
-                  {
-                    "link": "https://dootidonuts.pl/GENZIE/",
-                    "text": "kreatorze",
-                    "target": "_blank"
-                  },
-                  {
-                    "paragraph": " miały łaskotki, mogły poczuć się zmęczone lub znudzone, czasem były trochę wybredne, ale jak coś im się spodobało, nie omieszkały o tym powiedzieć! Wszystko zawdzięczamy unikalnym skryptom, które sprytnie wpływały na osobowość postaci."
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "Każde kliknięcie i osadzenie dodatku było sprawdzane przez unikalny silnik sterowania postacią i jeśli stwierdził on, że donut ma już dość, albo go to ‘zagilgocze’ to nasz bohater odpowiednio reagował ruchem oraz komunikatem. Tak samo było, gdy odbiorca nic nie robił. Donut komentował dosłownie wszystko!",
-                "author": {
-                  "name": "Mariusz",
-                  "role": "Odpowiedzialny za animację postaci",
-                  "img": "/images/mariusz.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/posts/Donut_Genzie_Gif06.gif"
-              }
-            }
-          ]
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Zabawny konkurs",
-              "description": [
-                [
-                  {
-                    "paragraph": "Cała akcja z ubieraniem donutów była wsparciem dla nowopowstałego donuta "
-                  },
-                  {
-                    "link": "https://www.youtube.com/@GENZIEE",
-                    "text": "GENZIE",
-                    "target": "_blank"
-                  },
-                  {
-                    "paragraph": " a kreator miał za zadanie rozkochać fanów grupy w DOOTI DONUTS. Odbiorcy przejęli stery i tworzyli własne, wymarzone donuty, inspirowane ulubionymi członkami GENZIE."
-                  }
-                ],
-                [
-                  {
-                    "paragraph": "A gdzie ta marchewka? Wewnątrz kreatora stworzyliśmy specjalny aparat! Aby wygrać nagrodę, wystarczyło zdjęcie i link w "
-                  },
-                  {
-                    "link": "https://www.facebook.com/DootiDonuts/posts/pfbid0vTKsfiGpwGEbnypDZpxbN3YFWpbyo5ozeJNeUivJCo7sCgnHG96vEBTkbptGxgCul",
-                    "text": "poście promocyjnym",
-                    "target": "_blank"
-                  },
-                  {
-                    "paragraph": " na Facebooku. Jego specjalna konstrukcja pozwalała wyświetlić miniaturkę w komentarzu - dzięki temu inni od razu mogli dać lajka! Widzieliśmy od razu, który podoba sie najmocniej społeczności co ułatwiało wybranie tego najpiękniejszego. Do wygrania było 8 nagród po 1000 zł dla każdego."
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "Start samego konkursu nie był przypadkowy, ponieważ z całą komunikacją ruszyliśmy 2 czerwca, czyli w Światowy Dzień Donuta, czyli w dniu który dla naszej marki ma przeogromne znaczenie!",
-                "author": {
-                  "name": "Mateusz Gradziński",
-                  "role": "Brand manager",
-                  "img": "/images/posts/logo_dooti.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/posts/Donut_Genzie_Gif04.gif"
-              }
-            }
-          ]
-        },
-        {
-          "title": "Giga wsparcie",
-          "description": [
-            [
-              {
-                "paragraph": "Nasz kreator stał się narzędziem komunikacji DOOTI DONUTS. Zarówno konkurs jak i sam kreator były promowane na TikToku, Facebooku, Instagramie, a nawet na Twitchu!"
-              }
-            ],
-            [
-              {
-                "paragraph": "Aktywację wspierała też grupa GENZIE, która podbiła serca młodego pokolenia w ostatnim roku. Szereg ich publikacji w social mediach dodał mocnego boosta kampanii. Ekipa bawiła się wspólnie w kreowanie swoich wariantów postaci, co chwilę opowiadając o tym na swoich kanałach. "
-              }
-            ],
-            [
-              {
-                "paragraph": "Wszystkie te działania sprawiły, że kreator stał się absolutnym hitem, gdzie materiały z gameplaya krążyły po TikToku i Instagramie! "
-              }
-            ]
-          ],
-          "img": {
-            "src": "/images/blog/donut_foto_social_videos_v2.jpg",
-            "withBackground": false
-          },
-          "quote": {
-            "text": "Kreator dawał możliwość wpisywania własnych tekstów, którą konkursowicze wykorzystywali do tworzenia własnych, krótkich historyjek. To mocno podnosiło zasięgi kampanii oraz podkręcało szansę na wygraną.",
-            "author": {
-              "name": "Łukasz",
-              "role": "Odpowiedzialny estetykę projektu",
-              "img": "/images/lukasz.jpg"
-            },
-            "fancyImg": {
-              "src": "/images/fancy3.svg",
-              "position": "left",
-              "value": -90,
-              "top": 48
-            }
-          }
-        },
-        {
-          "title": "Finał i 130 tysięcy kolorowych donutów",
-          "description": [
-            [
-              {
-                "paragraph": "Wyniki zaskoczyły dosłownie wszystkich! W sam Światowy Dzień Donuta, czyli pierwszego dnia konkursu, było ponad 100 000 wejść na stronę kreatora! Donut GENZIE został top SKU w okresie aktywacji, a shoutboxy marki zostały zapchane na wszystkich profilach!"
-              }
-            ],
-            [
-              {
-                "paragraph": "Post na Facebooku DOOTI DONUTS miał ponad 5 300 reakcji i 56 000 zgłoszeń konkursowych! W kreatorze powstało prawie 130 000 słodkich donutów, średnio użytkownik spędził 1,5 minuty na zabawę, a liczba zdarzeń osiągnęła 2,3 mln interakcji w przeciągu 2 tygodni. "
-              }
-            ]
-          ],
-          "img": {
-            "src": "/images/posts/donut_foto_social_coments11.jpg",
-            "withBackground": false
-          },
-          "quote": {
-            "text": "Wyobrażacie sobie, że waga wygenerowanych plików wyniosła prawie 22 gigabajty? Aż ciężko w to uwierzyć, to jak trylogia GTA na Nintendo Switch! Wiedzieliśmy, że nasz kreator mocno zaskoczy, dlatego tym bardziej cieszy mnie fakt, że był wykorzystywany do tak szalonej akcji!",
-            "author": {
-              "name": "Piotr",
-              "role": "Odpowiedzialny za oprogramowanie oraz dyrekcję artystyczną",
-              "img": "/images/piotr.jpg"
-            },
-            "fancyImg": {
-              "src": "/images/fancy3.svg",
-              "position": "left",
-              "value": -90,
-              "top": 48
-            }
-          }
-        },
-        {
-          "title": "Produkty w realu",
-          "description": [
-            [
-              {
-                "paragraph": "Ale to nawet nie najważniejsza część - nasz kreator nie był tylko słodką zabawą. Był narzędziem dającym realne możliwości! DOOTI DONUTS odwzorowało 8 zwycięskich donutów, a Genziaki mogli się nimi zajadać w jednym z ich youtubowych odcinków!"
-              }
-            ]
-          ],
-          "video": {
-            "ytId": "b6cLdA26fhQ",
-            "autoplay": 0,
-            "mute": 0,
-            "loop": 1,
-            "caption": "GENZIE - NAJLEPSZE ZDJĘCIA WYGRYWAJĄ!",
-            "withBackground": false
-          }
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Mechanizm eventowy",
-              "description": [
-                [
-                  {
-                    "paragraph": "Nasz kreator to nie tylko narzędzie do zabawy online, w realu też można go wykorzystać! Poza sferą wirtualną, swoją premierę zaliczył również na eventach live w pięciu największych miastach Polski, gdzie młodzi mogli konkurować o nagrody."
-                  }
-                ],
-                [
-                  {
-                    "paragraph": "Jak to działało? Uczestnicy podchodzili do stanowiska, skanowali specjalny QR kod, który następnie przenosił ich do kreatora. Tam, na swoich smartfonch, mogli tworzyć autorskie donuty i zgłosić je pod postami na Facebooku, dedykowanymi poszczególnym miastom."
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "„Chyba najbardziej niesamowitym przeżyciem w tej akcji było oglądanie w czasie rzeczywistym tyle osób bawiących się naszym kreatorem w tym samym momencie!”",
-                "author": {
-                  "name": "Weronika",
-                  "role": "Odpowiedzialna za koordynację projektu",
-                  "img": "/images/weronika.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/posts/dooti_gif_560x996.gif"
-              }
-            }
-          ]
-        },
-        {
-          "title": "Niesamowita społeczność",
-          "description": [
-            [
-              {
-                "paragraph": "Kreator promowany był również na Tik Toku, czyli w centrum naszej grupy docelowej, która jak się okazało zachwyciła się zabawą i możliwością zdobycia super nagród. Sam "
-              },
-              {
-                "link": "https://www.tiktok.com/@dootidonuts_pl/video/7239328824318594330",
-                "text": "TikTok",
-                "target": "_blank"
-              },
-              {
-                "paragraph": " Genzie o konkursie miał prawie 30 000 reakcji, oraz 6,9 mln. wyświetleń, a w komentarzach dzieciaki rozwijały swoje opowieści na temat danych donutów!"
-              }
-            ],
-            [
-              {
-                "paragraph": "Cieszymy się, że konkurs spotkał się z tak dobrym odbiorem i, że dał on wiele radości tej społeczności! Stworzenie tak zaawansowanego systemu było nie lada wyzwaniem, ale końcowy wynik był tego wart!"
-              }
-            ]
-          ],
-          "img": {
-            "src": "/images/posts/donut_foto_tiktok_coments _liczby.jpg",
-            "withBackground": false
-          }
-        },
-        {
-          "title": "MIXX Awards",
-          "description": [
-            [
-              {
-                "paragraph": "Facebookowy konkurs i wszystko co wydarzyło sie wokół kreatora Donutów przyniosło nam wielkie wyróżnienie. Mianowicie statuetkę MIXX Awards!!"
-              },
-              {
-                "link": "https://trzask.com/pl/blog/MIXX%20Awards",
-                "text": " Czytaj więcej... ",
-                "target": "_blank"
-              }
-            ]
-          ],
-          "img": {
-            "src": "/images/Trzask-MixxAwards2023_foto.jpg",
-            "withBackground": false
-          },
-          "quote": {
-            "text": "Cała akcja przekroczyła nasze oczekiwania! Wszystkie działania, które zaplanowaliśmy przyczyniły się do sukcesu nowego donuta GENZIE. To na pewno nie była ostatnia aktywacja z kreatorem, który zdecydowanie udowodnił swoją skuteczność. Dziękujemy ekipie Trzask za stworzenie takiego narzędzia.",
-            "author": {
-              "name": "Konrad Wiktor",
-              "role": "Marketing manager",
-              "img": "/images/posts/logo_dooti.jpg"
-            },
-            "fancyImg": {
-              "src": "/images/fancy3.svg",
-              "position": "left",
-              "value": -90,
-              "top": 48
-            }
-          }
-        }
-      ]
-    },
-    {
-      "slug": "SaarGummi Neo",
-      "tag": "SaarGummi Neo",
-      "title": "Innowacyjny produkt = innowacyjny explainer",
-      "caption": [
-        "#design #animation",
-        "Jak pokazać uszczelki samochodowe, żeby nie móc oderwać od nich wzroku? Zobacz case study SaarGummi Neo!"
-      ],
-      "img": "/images/SaarGummi_header_v1.jpg",
-      "description": [
-        [
-          {
-            "paragraph": "Firma "
-          },
-          {
-            "link": "https://neo.saargummi.com/",
-            "text": "SaarGummi Neo",
-            "target": "_blank"
-          },
-          {
-            "paragraph": ", z siedzibą w Niemczech, jest częścią SaarGummi Group, która zajmuje się produkcją wytrzymałej i wydajnej gumy, używanej przy inżynierii samochodowej i budowlanej."
-          }
-        ],
-        [
-          {
-            "paragraph": "Samo SaarGummi Neo specjalizuje się w robotyce, rzeczywistości rozszerzonej, drukowaniu 3D i innowacyjnych koncepcjach uszczelniania. I właśnie na uszczelkach samochodowych mieliśmy się skupić, tworząc dla marki explainer, który w przejrzysty sposób wyjaśni działanie i specyfikacje zupełnie nowej koncepcji produktu."
-          }
-        ]
-      ],
-      "fancyImg": {
-        "src": "/images/fancy1.svg",
-        "position": "left",
-        "value": -200,
-        "top": -30
-      },
-      "authors": [
-        {
-          "name": "Piotr Bielecki",
-          "role": "Owner and Head of Trzask",
-          "img": "/images/piotr.jpg"
-        },
-        {
-          "name": "Paweł Grabowski",
-          "role": "Lead animator",
-          "img": "/images/pawel.jpg"
-        },
-        {
-          "name": "Joanna Jakobielska",
-          "role": "Business Development Director",
-          "img": "/images/joanna.jpg"
-        }
-      ],
-      "sections": [
-        {
-          "video": {
-            "ytId": "T0BsEG1kacs",
-            "autoplay": 0,
-            "mute": 0,
-            "loop": 1,
-            "caption": "SaarGummi Neo / Promo video / Production: Trzask Studio ",
-            "withBackground": false
-          }
-        },
-        {
-          "span": 5,
-          "left": [
-            {
-              "title": "Ożywić scenariusz",
-              "description": [
-                [
-                  {
-                    "paragraph": "Przebieg współpracy był jasny dla wszystkich - SaarGummi Neo dostarcza nam scenariusz filmu, my animujemy. Jednak, żeby naprawdę ogarnąć technikalia produktu, marka uzbroiła nas w super szczegółowy brief i wdrożyła nas w mocno techniczne aspekty swojego produktu, tak abyśmy lepiej zrozumieli cel animacji."
-                  }
-                ]
-              ]
-            }
-          ],
-          "right": [
-            {
-              "exclemation": {
-                "text": [
-                  "Cel nadrzędny:",
-                  "Zaprojektowanie explainera, który pomoże odbiorcom zrozumieć produkty i odróżnić je przed decyzją o zakupie.  "
-                ]
-              }
-            }
-          ],
-          "img": {
-            "src": "/images/posts/SG_560x996_Gif3.gif",
-            "withBackground": true
-          },
-          "quote": {
-            "text": "„Żeby zrobić naszą robotę jak należy, poświęcamy dużą część czasu na zrozumienie produktu, który mamy przedstawić. Tak też było w tym przypadku, zwłaszcza, że przed rozpoczęciem współpracy z klientem nikt z nas nie miał za dużego pojęcia o uszczelkach samochodowych. Teraz? Czujemy się prawie jak eksperci!”",
-            "author": {
-              "name": "Piotr",
-              "role": "Odpowiedzialny za dyrekcję artystyczną",
-              "img": "/images/piotr.jpg"
-            },
-            "fancyImg": {
-              "src": "/images/fancy2.svg",
-              "position": "right",
-              "value": -100,
-              "top": 36
-            },
-            "top": true
-          }
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Misterny montaż",
-              "description": [
-                [
-                  {
-                    "paragraph": "Wszystkie elementy 3D zaprojektowaliśmy i wykonaliśmy własnoręcznie, co pozwoliło nam na pełną kontrolę nad animacją i jej dynamiką. Dzięki wykorzystaniu dłoni mimów, zaprezentowaliśmy różne warianty montażu uszczelek w niezwykle atrakcyjny sposób."
-                  }
-                ],
-                [
-                  {
-                    "paragraph": "Dodatkowo, żeby film był jeszcze ciekawszy i angażujący, wprowadziliśmy dynamiczne animacje zbliżeń na poszczególne elementy. A wszystko to w akompaniamencie nieinwazyjnej melodii, która idealnie podkreślała zastosowanie filmu."
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "„Pracując nad tym filmem mieliśmy niezwykle dużo funu! Dowiedzieliśmy się sporo o tej branży i jednocześnie mogliśmy przygotować makiety 3D, które były zdecydowaną gwiazdą tego explainera!”",
-                "author": {
-                  "name": "Paweł",
-                  "role": "Odpowiedzialny za animację",
-                  "img": "/images/pawel.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/posts/SaarGummi_Gif6B.gif"
-              }
-            }
-          ]
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Magiczne trzy minuty",
-              "description": [
-                [
-                  {
-                    "paragraph": "Tak oto powstał trzy-minutowy, profesjonalny explainer, który wyczerpująco i przede wszystkim zrozumiale, wyjaśniał technikalia i zawiłości produktu."
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "Praca z klientem zagranicznym, przy tak szczegółowym i technologicznym projekcie, na pewno była wyzwaniem, którego podjęliśmy się i z którego jesteśmy mega dumni!",
-                "author": {
-                  "name": "Joanna",
-                  "role": "Odpowiedzialna za koordynacje projektu",
-                  "img": "/images/joanna.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/posts/SaarGummi_Gif5.gif"
-              }
-            }
-          ],
-          "quote": {
-            "text": "Współpraca z Trzask! Studio sprawiła nam dużo satysfakcji. Zdecydowaliśmy się na przygotowanie animacji, ponieważ wideo dużo lepiej oddziaływuje na zrozumienie procesu nie tylko wewnątrz naszej organizacji, ale szczególnie na zrozumienie i poznanie produktu po stronie producentów pojazdów. Złożoność tematu i jego szczegółowość w tym projekcie była dość duża, ale ekipa Trzask! Studio i mój zespół włożyli wiele wysiłku w ten projekt, tworząc niezwykle dobrze zaprojektowany i wyjaśniający detale  film.",
-            "author": {
-              "name": "Sven Müller",
-              "role": "Managing Director of SaarGummi Neo",
-              "img": "/images/saargummi_neo_logo2.png"
-            },
-            "fancyImg": {
-              "src": "/images/fancy3.svg",
-              "position": "left",
-              "value": -90,
-              "top": 48
-            }
-          }
-        }
-      ]
-    },
-    {
-      "slug": "TEDx Polska",
-      "tag": "TEDx Polska",
-      "title": "Tradycyjna architektura w przyszłościowym stylu ",
-      "caption": [
-        "#design #animation ",
-        "Jak stworzyć nową animację z czegoś, co już znamy? Sprawdź case study TEDx Polska i zobacz, jak odświeżyliśmy warszawską architekturę!"
-      ],
-      "img": "/images/posts/TEDx_header_v1.jpg",
-      "description": [
-        [
-          {
-            "paragraph": "Oddanie ducha danego miasta z szacunkiem i jednocześnie kreatywnym twistem wbrew pozorom nie należy do najłatwiejszych zadań. "
-          }
-        ],
-        [
-          {
-            "paragraph": "Chcąc pokazać charakterystyczne elementy miejsca, ale nie kopiując ich jeden do jednego potrafi być wyzwaniem. Na szczęście w naszym Trzask Studio jest sporo kreatywnych głów! "
-          }
-        ],
-        [
-          {
-            "paragraph": "Dlatego czytaj dalej i zobacz, jak oddaliśmy ducha Warszawy w ponadczasowym projekcie przygotowanym dla "
-          },
-          {
-            "link": "https://www.ted.com/",
-            "text": "TEDx Polska",
-            "target": "_blank"
-          },
-          {
-            "paragraph": "!"
-          }
-        ]
-      ],
-      "fancyImg": {
-        "src": "/images/fancy1.svg",
-        "position": "left",
-        "value": -200,
-        "top": -30
-      },
-      "authors": [
-        {
-          "name": "Piotr Bielecki",
-          "role": "Owner and Head of Trzask",
-          "img": "/images/piotr.jpg"
-        },
-        {
-          "name": "Paweł Grabowski",
-          "role": "Lead animator",
-          "img": "/images/pawel.jpg"
-        },
-        {
-          "name": "Joanna Jakobielska",
-          "role": "Business Development Director",
-          "img": "/images/joanna.jpg"
-        }
-      ],
-      "sections": [
-        {
-          "video": {
-            "ytId": "qkZqwguaIvk",
-            "autoplay": 0,
-            "mute": 0,
-            "loop": 1,
-            "caption": "TEDx In a Heartbeat / Promo video / Production: Trzask Studio (Sfx, sound, animation) / 2016"
-          }
-        },
-        {
-          "span": 5,
-          "left": [
-            {
-              "title": "Tętniący życiem event",
-              "description": [
-                [
-                  {
-                    "paragraph": "TED jest marką, której nie trzeba nikomu przedstawiać. Podbili świat z hukiem, prowadząc super ciekawe i przystępne dla wszystkich, konferencje naukowe. Eventy prowadzone są w wielu krajach, w tym w Polsce."
-                  },
-                  {
-                    "paragraph": " I tak oto mieliśmy okazję podjąć się współpracy przy tworzeniu animacji dla jednej z konferencji, które odbyły się w warszawskim "
-                  },
-                  {
-                    "link": "https://polin.pl/pl",
-                    "text": "Muzeum Polin",
-                    "target": "_blank"
-                  },
-                  {
-                    "paragraph": "."
-                  }
-                ]
-              ]
-            }
-          ],
-          "right": [
-            {
-              "exclemation": {
-                "text": [
-                  "Cel nadrzędny:",
-                  "Oddać bijące serce warszawskiego ducha w animacji promujący event TEDx Polska."
-                ]
-              }
-            }
-          ],
-          "img": {
-            "src": "/images/TEDx_foto3 (1).jpg",
-            "withBackground": false
-          },
-          "quote": {
-            "text": "„Ekscytacja to mało powiedziane, co czuliśmy, gdy dowiedzieliśmy się, że będziemy tworzyć specjalną animację na jeden z eventów TEDx Polska. Wiedzieliśmy, że to musi być coś wyjątkowego!”",
-            "author": {
-              "name": "Piotr",
-              "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
-              "img": "/images/piotr.jpg"
-            },
-            "fancyImg": {
-              "src": "/images/fancy2.svg",
-              "position": "right",
-              "value": -100,
-              "top": 36
-            },
-            "top": true
-          }
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "W rytmie czerwieni",
-              "description": [
-                [
-                  {
-                    "paragraph": "Razem z TEDx Polska rozpisaliśmy scenariusz animacji, która miała być motywem pokazywanym w trakcie warszawskiej konferencji. Chcieliśmy, żeby animacja skupiała uwagę, jednocześnie nie przytłaczając szczegółami. Skupiliśmy się na motywie pulsu i bicia serca oraz czerwieni reprezentującej TEDx."
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "„Zależało nam przede wszystkim na tym, żeby kreska miała swój charakter, dlatego wybraliśmy styl liniowy, jako ten, którym będziemy się posługiwać przy tej animacji. Ten styl idealnie oddaje TEDx, a zrobienie wszystkiego w czerwieni jeszcze bardziej to wzmacnia!”",
-                "author": {
-                  "name": "Paweł",
-                  "role": "Odpowiedzialny za animację",
-                  "img": "/images/pawel.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/posts/syrenka_tedx2.gif"
-              }
-            }
-          ]
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Neonowe miasto",
-              "description": [
-                [
-                  {
-                    "paragraph": "Animacja miała przedstawiać charakterystyczne warszawskie zabytki i budowle, takie jak pomnik Syreny nad Wisłą. Wszystko zostało zaanimowane w ponadczasowej linearnej formie połączonej z neonowymi elementami, które dodały animacji futurystycznego efektu."
-                  }
-                ],
-                [
-                  {
-                    "paragraph": "A żeby nadać animacji mocy, dodaliśmy podniosłą muzykę, która perfekcyjnie zrównoważyła płynną animację."
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "„Warszawa jest jednym z tych miast, które dosłownie tętnią życiem. Dlatego, jako motyw przewodni, wybraliśmy bicie serca, które nie tylko mega łączy się ze stylem liniowym, ale też kolorystyką i duchem miasta.”",
-                "author": {
-                  "name": "Piotr",
-                  "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
-                  "img": "/images/piotr.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/posts/budynek_tedx.gif"
-              }
-            }
-          ]
-        },
-        {
-          "span": 4,
-          "left": [
-            {
-              "title": "Rytmiczna współpraca",
-              "description": [
-                [
-                  {
-                    "paragraph": "Tworząc animację, możemy inspirować się wszystkim. To co sprawia, że jest ona wyjątkowa to sposób, w jaki połączymy dane elementy. Kreatywne połączenie tradycyjnej architektury z futurystycznymi elementami grafiki to jest to, co sprawiło, że animacja dla TEDx Polska jest dla nas tak szczególna."
-                  }
-                ]
-              ],
-              "quote": {
-                "text": "Pracując blisko z TEDx Polska mieliśmy okazję wspólnie zaprojektować coś naprawdę niezwykłego. Cieszymy się, że mogliśmy stworzyć animację, która jest absolutnie ponadczasowa i pokazuje ducha zarówno marki jak i miejsca, w którym odbyła się konferencja!",
-                "author": {
-                  "name": "Joanna",
-                  "role": "Odpowiedzialna za koordynacje projektu",
-                  "img": "/images/joanna.jpg"
-                },
-                "fancyImg": {
-                  "src": "/images/fancy3.svg",
-                  "position": "left",
-                  "value": -90,
-                  "top": 48
-                }
-              }
-            }
-          ],
-          "right": [
-            {
-              "img": {
-                "src": "/images/posts/ted x tetno.gif"
-              }
-            }
-          ]
-        }
-      ]
-    },
     {
       "slug": "BMW",
       "tag": "BMW",
+      "tags": [
+        "Rich media",
+        "Video",
+        "HTML5",
+        "Automotive"
+      ],
       "title": "Rich mediowe reklamy przyszłości ",
       "caption": [
         "#design #animation #richmedia",
@@ -1594,7 +111,7 @@
       "authors": [
         {
           "name": "Piotr Bielecki",
-          "role": "Owner and Head of Trzask",
+          "role": "Production Director & Owner of Trzask",
           "img": "/images/piotr.jpg"
         },
         {
@@ -1810,8 +327,2358 @@
       ]
     },
     {
+      "slug": "Sanostol",
+      "tag": "Sanostol",
+      "tags": [
+        "Rich media",
+        "HTML5",
+        "FMCG"
+      ],
+      "title": "Back to 80’s w angażującej grze platformowej",
+      "caption": [
+        "#animation #richmedia #games",
+        "Odkurzyliśmy motyw z lat 80. i stworzyliśmy interaktywną grę, która przenosi w czasie"
+      ],
+      "img": "/images/case-sanostol/sanostol_head.jpg",
+      "description": [
+        [
+          {
+            "paragraph": "Uwielbiamy wciągające gry fabularne, w których obraz jest maksymalnie realistyczny, a porywający soundtrack podbija emocje. Ale mamy sentyment i szczególny respekt do oldschoolowych gier platformowych i monofonicznych melodyjek, które towarzyszyły rozgrywkom."
+          }
+        ],
+        [
+          {
+            "paragraph": "Tak się składa, że jesteśmy też ekspertami w tworzeniu fascynujących interaktywnych kreacji, dlatego mocno wkręciliśmy się w zadanie dla marki Sanostol, które postawiła przed nami agencja "
+          },
+          {
+            "link": "https://www.adheads.pl/",
+            "text": "Adheads.",
+            "target": "_blank"
+          }
+        ],
+        []
+      ],
+      "fancyImg": {
+        "src": "/images/fancy1.svg",
+        "position": "left",
+        "value": -200,
+        "top": -30
+      },
+      "authors": [
+        {
+          "name": "Piotr Bielecki",
+          "role": "Production Director & Owner of Trzask",
+          "img": "/images/piotr.jpg"
+        },
+        {
+          "name": "Mariusz Walach",
+          "role": "Animator",
+          "img": "/images/mariusz.jpg"
+        },
+        {
+          "name": "Łukasz Urban",
+          "role": "Art director",
+          "img": "/images/lukasz.jpg"
+        },
+        {
+          "name": "Paweł Bagan",
+          "role": "Account Manager",
+          "img": "/images/logo_adheads.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "video": {
+            "ytId": "vzgOgUDEG4U",
+            "autoplay": 0,
+            "mute": 0,
+            "loop": 1,
+            "withBackground": false,
+            "caption": "Dying Light 2 - Summer Sale / Production: Trzask Studio (vfx, sound, animation, 2D/3D, HTML5), Techland (gameplay movie, art direction) 2023"
+          }
+        },
+        {
+          "span": 5,
+          "left": [
+            {
+              "title": "Oldschoolowy motyw",
+              "description": [
+                [
+                  {
+                    "paragraph": "W tym projekcie mieliśmy do przygotowania kreacje do kampanii promującej suplementy diety na odporność dla dzieci. Naszym zadaniem było przygotowanie banerów reklamowych, w których wykorzystaliśmy motywy z kultowych gier - Pacmana i Tetrisa. Ale prawdziwym hitem była maksymalnie angażująca gra! 👶🎮"
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Agencja Adheads miała już gotową kreację i ekscytujący koncept. Inspiracją był dla nas spot zachowany w klimacie platformówek wyjętych dosłownie z lat 80. Sięgnęliśmy po wszystko, co najlepsze w interaktywnych rozwiązaniach i opracowaliśmy grę platformową, w której bohaterem jest bobas narażony na atak wirusów. "
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Wynieśliśmy reklamy banerowe na wyższy level. Wykorzystaliśmy mega nowoczesny mechanizm amphatml5, więc banery wyświetlały się na stronie w ekspresowym tempie.⚡”",
+                "author": {
+                  "name": "Piotr",
+                  "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
+                  "img": "/images/piotr.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "exclemation": {
+                "text": [
+                  "Cel nadrzędny:",
+                  "wciągnąć odbiorcę w interaktywną grę platformową w klimacie lat 80"
+                ]
+              }
+            }
+          ],
+          "img": {
+            "src": "/images/case-june/DL2_JuneCampaign_gif05.webp",
+            "withBackground": false
+          }
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Zagrajmy w grę!",
+              "description": [
+                [
+                  {
+                    "paragraph": "W rozgrywce klasycznie nie zabrakło negatywnych bohaterów, benefitów i podstępnych przeszkód. Zadaniem użytkownika było przesuwanie bobasa tak, żeby uniknął spotkania z wirusem i zdobył jak najwięcej odporności, łapiąc spadające krople. Za każdym razem, gdy bohater miał kontakt z suplementem, na ekranie wyświetlał się komunikat o właściwościach i działaniu produktu. 💧🌟"
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Ale im dalej w grę, tym więcej wyzwań! Zmęczony bobas to mniej odporny bobas, a przyspieszenie spadających elementów i spontaniczne potrząsanie obszarem gry tylko podkręciło poziom trudności. "
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„W tym projekcie inspirowaliśmy się najlepszymi grami z dzieciństwa. Najwięcej frajdy dało nam wymyślanie ‘przeszkadzajek’. Przelatujący samolot czy krowa porywana przez UFO? Klasyka w najlepszym wydaniu! Super było wymyślać takie przypadki!”",
+                "author": {
+                  "name": "Mariusz",
+                  "role": "Odpowiedzialny za animację",
+                  "img": "/images/mariusz.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/case-june/DL2_JuneCampaign_gif02.webp"
+              }
+            }
+          ]
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Powrót do przeszłości",
+              "description": [
+                [
+                  {
+                    "paragraph": "Wsiedliśmy w wehikuł czasu i udaliśmy się w podróż do świata pikseli. Zrezygnowaliśmy ze wszystkich nowoczesnych metod animacji, żeby wiernie oddać ducha rozwiązań z lat 80. Odtworzenie poklatkowej animacji pixelartowej było niezłym wyzwaniem! Wiarygodności dodały smaczki takie jak pokazowe intro czy absolutny klasyk - odliczanie do rozpoczęcia gry."
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Kto by pomyślał, że w naszej pracy wrócimy do starych czasów 8-bitowych gier platformowych i monofonicznych dźwięków? Aż w oku zakręciła się łezka wzruszenia!”",
+                "author": {
+                  "name": "Piotr",
+                  "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
+                  "img": "/images/piotr.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/case-june/DL2_JuneCampaign_gif03.webp"
+              }
+            }
+          ]
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Reklama na bogato",
+              "description": [
+                [
+                  {
+                    "paragraph": "Wiemy, jak ważne jest zaangażowanie odbiorcy w reklamę, dlatego z podekscytowaniem tworzymy interaktywne rozwiązania, które dostarczają rozrywki i sprzyjają budowaniu relacji z marką. Projekt dla marki Sanostol był dla nas sentymentalną podróżą i polem do połączenia pasji z dzieciństwa z tym, w czym jesteśmy dziś specjalistami."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Super, że mieliśmy wsparcie ze strony agencji Adheads, która podkręcała naszą kreatywność, wspierała w budowaniu wciągającego scenariusza gry i dbała o wierne oddanie estetyki gier sprzed lat. 💪 Dziękujemy, że mogliśmy być częścią tak kreatywnego projektu!"
+                  }
+                ]
+              ]
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/case-june/DL2_JuneCampaign_gif03.webp"
+              }
+            }
+          ],
+          "quote": {
+            "text": "„Gra jest dokładnie tym, czego oczekiwaliśmy! Dbałość o detale, kreatywne podejście i profesjonalna współpraca - brawo Trzask!”",
+            "author": {
+              "name": "Paweł Bagan",
+              "role": "Account Manager",
+              "img": "/images/logo_adheads.jpg"
+            },
+            "top": true,
+            "bold": true,
+            "fancyImg": {
+              "src": "/images/fancy4.svg",
+              "position": "left",
+              "value": -40,
+              "top": 64
+            }
+          }
+        },
+        {
+          "title": "Wejdź do gry",
+          "description": [
+            [
+              {
+                "paragraph": "Chcesz zaangażować odbiorców w reklamę swojej marki? Napisz do "
+              },
+              {
+                "link": "https://trzask.com/pl/contact",
+                "text": "Joanny lub Piotra.",
+                "target": "_blank"
+              },
+              {
+                "paragraph": " Stworzymy interaktywne rozwiązanie skrojone pod Twoje potrzeby!"
+              }
+            ]
+          ],
+          "img": {
+            "src": "/images/blog/Trzask_ContactUs_v4.gif"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "Apokalipsa_DyingLight2",
+      "tag": "Dying Light 2",
+      "tags": [
+        "Video",
+        "HTML5",
+        "Gaming",
+        "3D"
+      ],
+      "title": "Apokalipsa zombie, na którą czekasz",
+      "caption": [
+        "#banners #animation #games",
+        "Animacje i spoty rodem z postapokaliptycznego świata"
+      ],
+      "img": "/images/case-june/DL2_JuneCampaign-Cover_v1.webp",
+      "description": [
+        [
+          {
+            "paragraph": "Nie możemy uwierzyć, że to już 3 lata, od kiedy zaczęliśmy współpracę z "
+          },
+          {
+            "link": "https://techland.net/",
+            "text": "Techlandem",
+            "target": "_blank"
+          },
+          {
+            "paragraph": "! Tym bardziej ekscytujące jest to, że przygotowaliśmy kolejny wspólny projekt."
+          }
+        ],
+        [
+          {
+            "paragraph": "Zadanie było jasne: przygotować zestaw grafik, endslate’ów i animacji html5 w różnych wersjach językowych, które sprawią, że apokalipsa zombie ogarnie Internet niemal na całym świecie!"
+          }
+        ],
+        []
+      ],
+      "fancyImg": {
+        "src": "/images/fancy1.svg",
+        "position": "left",
+        "value": -200,
+        "top": -30
+      },
+      "authors": [
+        {
+          "name": "Piotr Bielecki",
+          "role": "Production Director & Owner of Trzask",
+          "img": "/images/piotr.jpg"
+        },
+        {
+          "name": "Paweł Grabowski",
+          "role": "Lead animator",
+          "img": "/images/pawel.jpg"
+        },
+        {
+          "name": "Łukasz Urban",
+          "role": "Art director",
+          "img": "/images/lukasz.jpg"
+        },
+        {
+          "name": "Hanna Kwiatkowska",
+          "role": "Senior Marketing Project Manager",
+          "img": "/images/logo_tech.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "video": {
+            "ytId": "vzgOgUDEG4U",
+            "autoplay": 0,
+            "mute": 0,
+            "loop": 1,
+            "withBackground": false,
+            "caption": "Dying Light 2 - Summer Sale / Production: Trzask Studio (vfx, sound, animation, 2D/3D, HTML5), Techland (gameplay movie, art direction) 2023"
+          }
+        },
+        {
+          "span": 5,
+          "left": [
+            {
+              "title": "Akcja-lokalizacja!",
+              "description": [
+                [
+                  {
+                    "paragraph": "Nasz plan działania był prosty: przygotować 11 animacji html5, które wciągną w mroczny świat gry. Techland poprosił nas też, żebyśmy stworzyli formaty statyczne w różnych rozmiarach i krótkie, budzące emocje spoty wideo na platformy gamingowe i do mediów społecznościowych."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Ze starterpackowych materiałów stworzyliśmy własną wersję trailera podkręconego wpadającą w ucho muzyką. Potem mogliśmy pochwalić się swoimi skillsami, dopasowując go do rozmiarów z mediaplanu. Pokombinowaliśmy z ujęciami z gry, popracowaliśmy w postprodukcji nad ich edycją i uzupełniliśmy kadry, dodając różne efektowne elementy, żeby jeszcze bardziej wciągnąć odbiorcę w atmosferę gry."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Każdy z formatów mieliśmy zlokalizować na rynkach zagranicznych. Materiały przetłumaczyliśmy na cztery języki: polski, angielski, niemiecki i francuski. To sporo plików, dlatego wprowadziliśmy w komunikacji podglądy przygotowanych materiałów. Dzięki temu mogliśmy działać sprawnie i na pełnych obrotach. "
+                  }
+                ]
+              ]
+            }
+          ],
+          "right": [
+            {
+              "exclemation": {
+                "text": [
+                  "Cel nadrzędny:",
+                  "stworzyć dopracowane w każdym detalu reklamy w postapokaliptycznym klimacie "
+                ]
+              }
+            }
+          ],
+          "img": {
+            "src": "/images/case-june/DL2_JuneCampaign_gif05.webp",
+            "withBackground": false
+          }
+        },
+        {
+          "title": "Diabeł tkwi w szczegółach",
+          "description": [
+            [
+              {
+                "paragraph": "Żeby osiągnąć energetyzujący efekt i pobudzić wyobraźnię użytkowników, skupiliśmy się na najmniejszych szczegółach. Dopracowaliśmy unoszący się w głębi dym, który wprowadził mroczną atmosferę, a niespokojny, śmiercionośny klimat podkręciliśmy, dodając drżące iskry. I teraz najlepsze: sprawiliśmy, że każda z nich porusza się w unikatowy sposób! W wideo dodaliśmy też drobne świetliki, które krążyły wokół źródła światła. "
+              }
+            ]
+          ],
+          "quote": {
+            "text": "„Projekt wymagał wielu doszlifowanych szczegółów, ale najważniejsze, że udało nam się te wszystkie bajery zmieścić w wyśrubowanej wadze. Niemożliwe? Nie dla nas!”",
+            "author": {
+              "name": "Paweł",
+              "role": "Odpowiedzialny za animację",
+              "img": "/images/pawel.jpg"
+            },
+            "fancyImg": {
+              "src": "/images/fancy3.svg",
+              "position": "left",
+              "value": -90,
+              "top": 48
+            }
+          },
+          "img": {
+            "src": "/images/case-june/DL2_JuneCampaign_gif02.webp"
+          }
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Żywy w świecie zombie",
+              "description": [
+                [
+                  {
+                    "paragraph": "W spocie finałowym poszliśmy o krok dalej. Stworzyliśmy animację 3D ze statycznej grafiki, żeby ożywić postać głównego bohatera. Dzięki temu osiągnęliśmy mega efekt - poruszająca się w ciężkim oddechu klatka piersiowa i niespokojny ruch głowy oddają silne emocje i czające się wokół niebezpieczeństwo."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Cieszymy się, że już od 3 lat możemy robić dla Techlandu to, co kochamy -  epickie reklamy, które budzą emocje. Ten projekt przeniósł nas do fascynującego świata niosącej zniszczenie epidemii zombie. Dokładnie to chcieliśmy przekazać, dopracowując każdy najmniejszy element reklam wprowadzający w wyjątkowe, mroczne uniwersum gry."
+                  }
+                ]
+              ]
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/case-june/DL2_JuneCampaign_gif03.webp"
+              }
+            }
+          ],
+          "img": {
+            "src": "/images/case-june/DL2_JuneCampaign_HTML5_v1.jpg",
+            "withBackground": false
+          },
+          "quote": {
+            "text": "„Kreacje jak zwykle robią wrażenie! Wielkie dzięki dla całego zespołu Trzask!”",
+            "author": {
+              "name": "Hanna Kwiatkowska",
+              "role": "Senior Marketing Project Manager",
+              "img": "/images/logo_tech.jpg"
+            },
+            "top": true,
+            "bold": true,
+            "fancyImg": {
+              "src": "/images/fancy4.svg",
+              "position": "left",
+              "value": -40,
+              "top": 64
+            }
+          }
+        },
+        {
+          "title": "Wejdź z nami do gry",
+          "description": [
+            [
+              {
+                "paragraph": "Spodobały Ci się nasze realizacje? Napisz do "
+              },
+              {
+                "link": "https://trzask.com/pl/contact",
+                "text": "Joanny lub Piotra",
+                "target": "_blank"
+              },
+              {
+                "paragraph": " - przygotujemy dla Ciebie efektowne reklamy html5, stworzymy wciągające animacje endslate’ów i zmontujemy trailery z efektami specjalnymi."
+              }
+            ]
+          ],
+          "img": {
+            "src": "/images/blog/Trzask_ContactUs_v4.gif"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "Eurogamer_Cyberpunk2077",
+      "tag": "Eurogamer / Cyberpunk 2077",
+      "tags": [
+        "Rich media",
+        "HTML5",
+        "Gaming"
+      ],
+      "title": "Interaktywna reklama hackuje serwis",
+      "caption": [
+        "#design #animation #richmedia #games",
+        "Jak wypromować produkt gamingowy, oddając jego unikatowy klimat?"
+      ],
+      "img": "/images/case-cyberpunk-eurogamer/cp_head.webp",
+      "description": [
+        [
+          {
+            "paragraph": "Przeglądając nasze projekty, nietrudno zauważyć, że jesteśmy cyberpunkowymi freakami. Kochamy tworzyć reklamy do tej gry. Tak było z richmedia promującym Cyberpunk 2077 od "
+          },
+          {
+            "link": "https://www.cdprojektred.com/pl",
+            "text": "CD PROJEKT RED",
+            "target": "_blank"
+          },
+          {
+            "paragraph": "  - który przenosił do futurystycznego świata niebezpieczeństw i występku. Nadal czujemy emocje towarzyszące uzbrojonej w cybernetyczny ekwipunek głównej postaci V w drodze na sam szczyt Night City!"
+          }
+        ],
+        [
+          {
+            "paragraph": "Z wielką przyjemnością i nieskrywaną ekscytacją na premierę gry Cyberpunk 2077 w 2020 roku podjęliśmy współpracę z polską edycją serwisu gamingowego "
+          },
+          {
+            "link": "https://www.eurogamer.pl/",
+            "text": "Eurogamer",
+            "target": "_blank"
+          },
+          {
+            "paragraph": ". Przygotowaliśmy interaktywną reklamę "
+          },
+          {
+            "link": "https://store.epicgames.com/pl/p/cyberpunk-2077--ultimate-edition",
+            "text": "Cyberpunk 2077",
+            "target": "_blank"
+          },
+          {
+            "paragraph": "  na stronę główną portalu, która… rozwaliła system, a przynajmniej część serwisu. Wystarczyło tylko go zhackować. Tak jakby. 🤭"
+          }
+        ],
+        []
+      ],
+      "fancyImg": {
+        "src": "/images/fancy1.svg",
+        "position": "left",
+        "value": -200,
+        "top": -30
+      },
+      "authors": [
+        {
+          "name": "Piotr Bielecki",
+          "role": "Production Director & Owner of Trzask",
+          "img": "/images/piotr.jpg"
+        },
+        {
+          "name": "Paweł Grabowski",
+          "role": "Lead animator",
+          "img": "/images/pawel.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "video": {
+            "ytId": "rE9vmNfBaEY",
+            "autoplay": 0,
+            "mute": 0,
+            "loop": 1,
+            "withBackground": false,
+            "caption": "Cyberpunk 2077 - Eurogamer / Trailer: CD PROJEKT RED, Ad animation: Trzask Studio "
+          }
+        },
+        {
+          "span": 5,
+          "left": [
+            {
+              "title": "Screening pełen akcji",
+              "description": [
+                [
+                  {
+                    "paragraph": "Polska redakcja Eurogamera poprosiła nas o przygotowanie screeningu interaktywnego promującego grę Cyberpunk 2077. Reklama miała wykraczać poza to, co do tej pory mogliśmy zobaczyć w serwisie. Od twórców gry dostaliśmy zielone światło, żeby zaszaleć z interakcją screeningu ze stroną."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Zrobiliśmy efekt hackowania! Wyświetlana reklama wpływała na pozostałe elementy serwisu, które dla podkręcenia efektu ‘ozdobiliśmy’ rozwalającymi się kawałkami! Obniżając na chwilę panel z newsami, pozwoliliśmy użytkownikom podziwiać fascynujące drifty i poczuć adrenalinę, która czeka ich w tej świetnej grze!"
+                  }
+                ]
+              ]
+            }
+          ],
+          "right": [
+            {
+              "exclemation": {
+                "text": [
+                  "Cel nadrzędny:",
+                  "stworzyć kreatywną reklamę, która przyciągnie uwagę użytkowników portalu"
+                ]
+              }
+            }
+          ],
+          "img": {
+            "src": "/images/case-cyberpunk-eurogamer/CP2077_gif2.gif",
+            "withBackground": true
+          },
+          "quote": {
+            "text": "„Zwykle reklama nie ma wpływu na serwis, w którym się wyświetla. My postanowiliśmy zerwać z nudą i pójść na całość! Chcieliśmy, żeby strona stała się częścią screeningu, a w efekcie wyglądała tak, jakby kreacja Cyberpunka 2077 dosłownie zhackowała serwis. Dlatego ten projekt był tak fascynujący!”",
+            "author": {
+              "name": "Piotr",
+              "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
+              "img": "/images/piotr.jpg"
+            },
+            "fancyImg": {
+              "src": "/images/fancy2.svg",
+              "position": "right",
+              "value": -100,
+              "top": 36
+            },
+            "top": true
+          }
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Demolka pod kontrolą",
+              "description": [
+                [
+                  {
+                    "paragraph": "Ale najlepsze miało dopiero nadejść! Spot w tle był na tyle dynamiczny, że postanowiliśmy dodać zaledwie kilka, ale za to robiących niesamowite wrażenie, elementów. W kreatywny sposób włączyliśmy do animacji obszar sekcji newsów i trochę go… zniszczyliśmy. "
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Jak? Nie mogliśmy się oprzeć, żeby dodać do animacji sceny, w których pojawia się intensywna wymiana ognia. Strzały oddawane przez bohaterów gry sprzężyliśmy z burzącymi się fragmentami serwisu. Efekt? Przestrzeń portalu stała się elementem scenerii gry!"
+                  }
+                ]
+              ]
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/case-cyberpunk-eurogamer/CP2077_gif1.gif"
+              }
+            }
+          ]
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Ukryty banner",
+              "description": [
+                [
+                  {
+                    "paragraph": "Animacja rozpadających się fragmentów serwisu miała też ukryty cel. I to dosłownie! Pod panelem newsów ukryliśmy banner reklamowy, który odsłaniał się z każdym kolejnym strzałem, aż w końcu uległ epickiemu zniszczeniu. Na koniec fragmenty opadły spektakularnie i odsłoniły pionowy banner promujący grę. Robi wrażenie!"
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Największym wyzwaniem było spięcie wszystkich elementów w czasie. Musieliśmy precyzyjnie zgrać strzały i burzenie się serwisu, żeby nadać reklamie realizmu. Super było dodanie detali, które podkręciły efekt - odsłonięcie driftujących aut i skanowanie odcisku palca”",
+                "author": {
+                  "name": "Paweł",
+                  "role": "Odpowiedzialny za animację",
+                  "img": "/images/pawel.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/case-cyberpunk-eurogamer/CP2077_gif4.gif"
+              }
+            }
+          ]
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Przejmij serwis!",
+              "description": [
+                [
+                  {
+                    "paragraph": "A co powiedzielibyście na motyw z odciskiem palca? W naszej pierwotnej koncepcji chcieliśmy dodać animację skanowania dłoni, czyli charakterystycznego elementu gry. To byłby futurystyczny  klimat - z założenia użytkownik mógłby ‘zhackować’ serwis i wejść do świata Cyberpunka 2077 za pomocą jednego kliknięcia! Pomysł nie wszedł w życie, ale do dziś mamy ciarki ekscytacji!"
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Misja wykonana! Praca nad tym projektem przyniosła nam sporo frajdy. Lubimy tworzyć nietypowe formaty, które odświeżają spojrzenie i przyciągają uwagę. Takie jest właśnie nasze podejście - tworzymy animacje, które na długo zapadają w pamięć."
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„To było zlecenie, które wymagało od nas ogromnych pokładów kreatywności i sporego nakładu pracy. Efekt był tego warty! Jesteśmy dumni, że mogliśmy być częścią tego projektu!”",
+                "author": {
+                  "name": "Piotr",
+                  "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
+                  "img": "/images/piotr.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/case-cyberpunk-eurogamer/CP2077_gif5.gif"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Podejmij wyzwanie!",
+          "description": [
+            [
+              {
+                "paragraph": "Chcesz stworzyć mega kreatywny, wychodzący poza schematy i maksymalnie angażujący screening dla swojej marki? Napisz do "
+              },
+              {
+                "link": "https://trzask.com/pl/contact",
+                "text": "Joanny lub Piotra",
+                "target": "_blank"
+              },
+              {
+                "paragraph": " - oni wiedzą, jak to się robi!"
+              }
+            ]
+          ],
+          "img": {
+            "src": "/images/blog/Trzask_ContactUs_v4.gif"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "Influencer Donut",
+      "tag": "Influencer Donut",
+      "tags": [
+        "Video",
+        "3D",
+        "FMCG",
+        "Kids"
+      ],
+      "title": "Najsłodsza gwiazda w Internecie",
+      "caption": [
+        "#design #animation ",
+        "Niesamowita historia donuta, który podbija serca internautów w animacji 3D na social media"
+      ],
+      "img": "/images/case-donut-influ/Donut_Influencer_header_v1a.jpg",
+      "description": [
+        [
+          {
+            "paragraph": "Jeśli szukacie w sieci inspirujących influencerów, którzy błyszczą na streamach i wrzucają content dosłownie ociekający słodyczą, to tego gościa pokochacie na pewno. Poznajcie Influencera Donuta! 🍩✨"
+          }
+        ],
+        [
+          {
+            "paragraph": "Dooti Donuts zwróciło się do nas z prośbą o stworzenie krótkiej animacji do social mediów, która zaprezentuje ich najnowszą gwiazdę w akcji i rozleje jej słodycz po krańce Internetu."
+          }
+        ]
+      ],
+      "fancyImg": {
+        "src": "/images/fancy1.svg",
+        "position": "left",
+        "value": -200,
+        "top": -30
+      },
+      "authors": [
+        {
+          "name": "Piotr Bielecki",
+          "role": "Production Director & Owner of Trzask",
+          "img": "/images/piotr.jpg"
+        },
+        {
+          "name": "Paweł Grabowski",
+          "role": "Lead animator",
+          "img": "/images/pawel.jpg"
+        },
+        {
+          "name": "Łukasz Urban",
+          "role": "Art director",
+          "img": "/images/lukasz.jpg"
+        },
+        {
+          "name": "Mateusz Gradziński",
+          "role": "Brand Manager",
+          "img": "/images/posts/logo_dooti.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "video": {
+            "ytId": "0DQcPPZFmZU",
+            "autoplay": 0,
+            "mute": 0,
+            "loop": 1,
+            "caption": "Dooti Donuts - Influencer / Production: Trzask Studio (art direction, vfx, sound, animation, 3d modeling) 2023",
+            "withBackground": false
+          }
+        },
+        {
+          "span": 5,
+          "left": [
+            {
+              "title": "Narodziny donutowej gwiazdy",
+              "description": [
+                [
+                  {
+                    "paragraph": "Influencer Donut to okrąglutki słodziak z bajecznie pyszną polewą i nadzieniem o smaku truskawkowego shake’a, który ma więcej uroku i charyzmy niż niejeden celebryta. Jest na salonach... to znaczy, na sklepowych półkach od niedawna, ale już robi sporo zamieszania. Nowy w dootidonutowej paczce ma w sobie coś wyjątkowego. To pierwszy donut całkowicie stworzony przez fanów Dooti Donuts w "
+                  },
+                  {
+                    "link": "https://dootidonuts.pl/GENZIE/game.html",
+                    "text": "specjalnym kreatorze ",
+                    "target": "_blank"
+                  },
+                  {
+                    "link": "https://trzask.com/pl/case-studies/dooti-donuts",
+                    "text": "naszego autorstwa",
+                    "target": "_blank"
+                  },
+                  {
+                    "paragraph": "."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Taki potencjał trzeba było wykorzystać! Klientowi zależało, żeby animacja przykuwała wzrok modnymi motywami i pulsowała młodzieżowym vibem. Postanowiliśmy zabrać widzów na backstage pracy Influencer Donuta i w szalonej animacji pokazać, jak nasza słodka gwiazda wylewa siódme lukry, żeby zdobyć wasze serca i lajki. 👍❤️"
+                  }
+                ]
+              ]
+            }
+          ],
+          "right": [
+            {
+              "exclemation": {
+                "text": [
+                  "Cel nadrzędny:",
+                  "stworzenie kreatywnej animacji 3D launchującej nowego donuta, oddającej jego wyjątkowość i infulencerski charakter"
+                ]
+              }
+            }
+          ],
+          "img": {
+            "src": "/images/case-donut-influ/Donut_Influencer_gif6.webp",
+            "withBackground": true
+          }
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Dzień z życia influ-donuta",
+              "description": [
+                [
+                  {
+                    "paragraph": "Bazą materiału wideo było stworzenie trójwymiarowego puszystego i apetycznego Influencera Donuta w trzech pozycjach. Potem wybraliśmy kilka scen wyjętych z życia typowej gwiazdy internetu, dodaliśmy Donuta i zanimowaliśmy go w rzeczywistej płaszczyźnie. I tak nasza truskawkowo-lukrowa osobowość internetowa pokazała, jak profesjonalnie pozuje do zdjęć, podjęła challenge godny wytrawnego jogina i zdradziła kilka sekretów na streamie."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "W poszczególnych scenach wyeksponowaliśmy influencerskie credo: styl, challenge, live i zabawę, które z hasłem naszego klienta 'na okrągło' stworzyły zupełnie nowe, inspirujące, donutowe influ-uniwersum. Sceny wypełniliśmy słodkimi jak truskawkowy shake kolorami i połączyliśmy kreatywnymi przejściami. Dla podkreślenia klimatu dodaliśmy neutralną, ale wpadającą w ucho muzykę, a na deser podkręciliśmy magię Influencera Donuta odrobiną blasku. ✨"
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Pomysł na animację był prosty - pokazać typowe życie zupełnie nietypowego influencera. Sięgnęliśmy po kojarzące się z tematem sceny, ale zamiast ludzkich postaci wkleiliśmy animację 3D truskawkowego donuta. Efekt robi wrażenie!”",
+                "author": {
+                  "name": "Piotr",
+                  "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
+                  "img": "/images/piotr.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/case-donut-influ/Donut_Influencer_gif1.webp"
+              }
+            }
+          ]
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Koniecznie zostawcie suba!",
+              "description": [
+                [
+                  {
+                    "paragraph": "Finalnie niezwykłe połączenie wirtualnego świata influencerów z zupełnie rzeczywistą słodyczą donuta sprawiło, że animacja stała się ekscytującą wycieczką do uniwersum Influencera Donuta - nowej, niekwestionowanej gwiazdy sieci. Wymiary wideo dostosowaliśmy do różnych platform społecznościowych, a jego przekaz kreatywnie wpisaliśmy w aktualne trendy w social mediach. Praca nad animacją to była słodka przyjemność! "
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Najbardziej podoba mi się, jak nasz donut świetnie zadomowił się w realnym świecie. Dobrze radzi sobie przed obiektywem i z jaką lekkością lewituje! Co prawda ze studia musieliśmy wyeksmitować innych influencerów, aby nasz donut mógł spokojnie rozwijać swoją karierę, ale warto było!”",
+                "author": {
+                  "name": "Paweł",
+                  "role": "Odpowiedzialny za animację",
+                  "img": "/images/pawel.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/case-donut-influ/Donut_Influencer_gif3.webp"
+              }
+            }
+          ],
+          "quote": {
+            "text": "„Ekstra motyw - przenosimy wirtualnego donuta do rzeczywistości na kolejnej płaszczyźnie! Magia w stylu Trzaska!”",
+            "author": {
+              "name": "Mateusz Gradziński",
+              "role": "Brand Manager",
+              "img": "/images/posts/logo_dooti.jpg"
+            },
+            "top": true,
+            "bold": true,
+            "fancyImg": {
+              "src": "/images/fancy4.svg",
+              "position": "left",
+              "value": -40,
+              "top": 64
+            }
+          }
+        }
+      ]
+    },
+    {
+      "slug": "Tymbark DeliFruits",
+      "tag": "Tymbark Deli&Fruits",
+      "tags": [
+        "Video",
+        "3D",
+        "FMCG"
+      ],
+      "title": "Reklama, której smak możesz poczuć!",
+      "caption": [
+        "#design #animation #3D",
+        "Musowe szaleństwo z Tymbark Deli&Fruits! Spot 3D o nadzwyczajnych smakach."
+      ],
+      "img": "/images/tymbark/cover.jpg",
+      "description": [
+        [
+          {
+            "paragraph": "Słyszysz "
+          },
+          {
+            "link": "https://tymbark.com/",
+            "text": "Tymbark",
+            "target": "_blank"
+          },
+          {
+            "paragraph": ", myślisz “mmmmm”! To właśnie ten dźwięk stał się tematem przewodnim 15-sekundowego filmu promocyjnego, który stworzyliśmy dla marki Tymbark. Grupa Maspex zwróciła się do nas z prośbą o stworzenie kreatywnego spotu reklamującego lekką przekąskę w formie musu Deli&Fruits w 3 niebanalnych smakach!"
+          }
+        ]
+      ],
+      "fancyImg": {
+        "src": "/images/fancy1.svg",
+        "position": "left",
+        "value": -200,
+        "top": -30
+      },
+      "authors": [
+        {
+          "name": "Piotr Bielecki",
+          "role": "Production Director & Owner of Trzask",
+          "img": "/images/piotr.jpg"
+        },
+        {
+          "name": "Paweł Grabowski",
+          "role": "Lead animator",
+          "img": "/images/pawel.jpg"
+        },
+        {
+          "name": "Joanna Jakobielska",
+          "role": "Business Development Director",
+          "img": "/images/joanna.jpg"
+        },
+        {
+          "name": "Grzegorz Radomski",
+          "role": "3D Generalist",
+          "img": "/images/trzask_g.png"
+        },
+        {
+          "name": "Michał Makowski",
+          "role": "Senior Brand Manager",
+          "img": "/images/tymbark/logo tymbark.jpeg"
+        },
+        {
+          "name": "Emilia Janusiewicz",
+          "role": "Marketing Assistant",
+          "img": "/images/tymbark/logo tymbark.jpeg"
+        }
+      ],
+      "sections": [
+        {
+          "video": {
+            "ytId": "gNKtVruLx3Q",
+            "autoplay": 0,
+            "mute": 0,
+            "loop": 1,
+            "caption": "Tymbark Deli&Fruits. Kiedy muuuusisz coś słodkiego... / Production: Trzask Studio (vfx, sound, animation, 3D, storyboard) 2023",
+            "withBackground": false
+          }
+        },
+        {
+          "span": 5,
+          "left": [
+            {
+              "title": "WyMUUUUSkany scenariusz",
+              "description": [
+                [
+                  {
+                    "paragraph": "Na start dostaliśmy key visual i packshoty. Ma być smacznie, lekko, błogo i przyjemnie. Aby podkreślić smakowitość musów wykorzystaliśmy kawałki soczystych wiśni, chrupiących herbatników, kuszące wiórki kokosowe i plastry dojrzałych bananów. Czy już jesteście poruszeni? "
+                  }
+                ]
+              ]
+            }
+          ],
+          "right": [
+            {
+              "exclemation": {
+                "text": [
+                  "Cel nadrzędny:",
+                  "Pobudzić kubki smakowe odbiorców lekko i przyjemnie."
+                ]
+              }
+            }
+          ],
+          "img": {
+            "src": "/images/tymbark/tymbark_gif.gif",
+            "withBackground": true
+          }
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Trzy wymiary i dźwięk",
+              "description": [
+                [
+                  {
+                    "paragraph": "Wiedzieliśmy, że materiał ma w 15 sekund pobudzić zmysły i kubki smakowe widzów, ale przede wszystkim na chwilę przejąć kontrolę nad ich wyobraźnią. Stworzyliśmy animację 3D, w której dodatki smakowe wpadają do leniwie wirującej masy, zatapiają się i mmmm… na oczach widza tworzą ultradelikatny mus."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Wykorzystaliśmy miękką teksturę i płynny ruch składników musu, żeby oddać lekkość produktu. Zawiesiliśmy produkty w stanie nieważkości, a głęboki głos lektora i relaksująca, lifestylowa muzyka zrobiła swoje!"
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Wyzwanie przed jakim postawił nas Tymbark było niesamowicie trudne, wpadanie owocow do musu oraz ich interakcja z otoczeniem to godziny spedzone na postprodukcji”",
+                "author": {
+                  "name": "Piotr",
+                  "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
+                  "img": "/images/piotr.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/tymbark/tymbark_owoce_gif.gif"
+              }
+            }
+          ]
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Przyjemność, która trwa",
+              "description": [
+                [
+                  {
+                    "paragraph": "Animacja 3D, wypełniona smakiem i energią, przyciągnęła uwagę nie tylko widzów w internecie, ale także tych przed ekranami telewizorów. Nasza praca stała się dumą dla całego zespołu, a smakowita podróż po świecie Deli&Fruits zachęciła widzów do spróbowania tych lekkich smakołyków!  "
+                  }
+                ]
+              ]
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/tymbark/tymbarkg_gif4.gif"
+              }
+            }
+          ],
+          "quote": {
+            "text": "„Praca z Waszym zespołem była sprawna, kreatywna i na czas. Czyli w skrócie - TRZASK :)”",
+            "author": {
+              "name": "Michał Makowski",
+              "role": "Senior Brand Manager Tymbark",
+              "img": "/images/tymbark/logo tymbark.jpeg"
+            },
+            "top": true,
+            "bold": true,
+            "fancyImg": {
+              "src": "/images/fancy4.svg",
+              "position": "left",
+              "value": -40,
+              "top": 64
+            }
+          }
+        }
+      ]
+    },
+    {
+      "slug": "DyingLight2StayHuman-Pilgrim",
+      "tag": "Dying Light 2 Stay Human",
+      "tags": [
+        "Video",
+        "Gaming"
+      ],
+      "title": "Animacja rodem z apokalipsy",
+      "caption": [
+        "#animation #games",
+        "Jak zaprezentować nową platformę fanom gry tak, by się w niej zakochali? Sprawdź nasze nowe case study Dying Light 2 Stay Human!"
+      ],
+      "img": "/images/Pilgrim/DL2_PilgrimOutpost_cover.jpg",
+      "description": [
+        [
+          {
+            "paragraph": "Jak dosłownie zarazić fanów nowym serwisem gry? Słowo, które użyliśmy, absolutnie nie jest przypadkowe, ponieważ idealnie wpasowuje się w tematykę, o której dzisiaj mówimy. A jest nią… Dying Light 2 Stay Human, oczywiście!"
+          }
+        ],
+        [
+          {
+            "paragraph": "Jeden z projektów, przy którym mamy szczęście pracować, należy do firmy "
+          },
+          {
+            "link": "https://techland.net/",
+            "text": "Techland",
+            "target": "_blank"
+          },
+          {
+            "paragraph": ", topowego twórcy gier na świecie. Tym razem otrzymaliśmy za zadanie opowiedzieć graczom, na czym polega platforma, znana jako "
+          },
+          {
+            "link": "https://pilgrimoutpost.techlandgg.com/",
+            "text": "Pilgrim Outpost",
+            "target": "_blank"
+          },
+          {
+            "paragraph": "."
+          }
+        ],
+        []
+      ],
+      "fancyImg": {
+        "src": "/images/fancy1.svg",
+        "position": "left",
+        "value": -200,
+        "top": -30
+      },
+      "authors": [
+        {
+          "name": "Piotr Bielecki",
+          "role": "Production Director & Owner of Trzask",
+          "img": "/images/piotr.jpg"
+        },
+        {
+          "name": "Paweł Grabowski",
+          "role": "Lead animator",
+          "img": "/images/pawel.jpg"
+        },
+        {
+          "name": "Łukasz Urban",
+          "role": "Art director",
+          "img": "/images/lukasz.jpg"
+        },
+        {
+          "name": "Magda Marcinkowska",
+          "role": "Digital Producer",
+          "img": "/images/logo_tech.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "video": {
+            "ytId": "D_WXbTjhhnI",
+            "autoplay": 0,
+            "mute": 0,
+            "loop": 1,
+            "withBackground": false,
+            "caption": "Dying Light 2 Stay Human - Pilgrim Outpost / Production: Trzask Studio (animation, 2D/3D), Techland (script, gameplay) 2023 "
+          }
+        },
+        {
+          "span": 5,
+          "left": [
+            {
+              "title": "Nowa misja odblokowana",
+              "description": [
+                [
+                  {
+                    "paragraph": "Zadanie, które otrzymaliśmy, brzmiało prosto: stworzyć niesamowity trailer, który zaintryguje graczy i pomoże wprowadzić ich do nowego serwisu z grą "
+                  },
+                  {
+                    "link": "https://dyinglightgame.com/pl/",
+                    "text": "Dying Light 2 Stay Human",
+                    "target": "_blank"
+                  },
+                  {
+                    "paragraph": "."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Pilgrim Outpost jest nową platformą, która pozwala graczom zdobywać punkty za wykonywanie zadań w grze, a następnie wymieniać je na różne nagrody. Naszym zadaniem było stworzenie filmu, który nie tylko zainteresuje graczy, ale także wyjaśni im zasady nowego systemu."
+                  }
+                ]
+              ]
+            }
+          ],
+          "right": [
+            {
+              "exclemation": {
+                "text": [
+                  "Cel nadrzędny:",
+                  "stworzyć animację rodem z postapokalipsy, która zachęci graczy do skorzystania z platformy Pilgrim Outpost."
+                ]
+              }
+            }
+          ],
+          "img": {
+            "src": "/images/Pilgrim/DL2_Pilgrim_gif1.gif",
+            "withBackground": true,
+            "caption": "Sekwencje video dostarczone przez Techland."
+          }
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Quest - stworzyć animację",
+              "description": [
+                [
+                  {
+                    "paragraph": "Film powstał na bazie scenariusza i krótkich ujęć wideo z postacią, wygenerowanych z silnika gry i dostarczonych przez zespół Techland."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": " Ale to nie wszystko - nie byliśmy w stanie się powstrzymać i nie dodać od siebie iskry trzaskowej kreatywności! "
+                  },
+                  {
+                    "paragraph": "Tym razem w postaci modeli 3D czy efektownych podświetleń."
+                  },
+                  {
+                    "paragraph": " A wszystko po to, by jak najbardziej przyciągnąć oko odbiorcy i skupić jego uwagę na kluczowych elementach! "
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Pomysły urozmaicające wideo rozkręcały się przez cały proces powstawania projektu. A to podświetlenie tekstu na końcu, a to animacja skrzyni z bronią w 3D, czy podkręcenie przejścia i zgranie wszystkiego mocniej z muzyką. Proces kreatywny nie kończy się na koncepcji - on się wtedy dopiero zaczyna!”",
+                "author": {
+                  "name": "Łukasz",
+                  "role": "Odpowiedzialny za wizję artystyczną",
+                  "img": "/images/lukasz.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/Pilgrim/DL2_Pilgrim_gif3.gif"
+              }
+            }
+          ]
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Animacja rodem z postapokalipsy",
+              "description": [
+                [
+                  {
+                    "paragraph": "Gotowa animacja przeszła nasze najśmielsze oczekiwania! Film nie tylko zwracał na siebie uwagę, ale też sceny dodawały emocji do samej narracji. Jednym z efektów, z których jesteśmy najbardziej dumni jest efekt zarażającej maski, który odsłaniał kolejne sekcje historii i oddawał atmosferę grozy, jaką gracze doświadczają w Dying Light 2 Stay Human. Ten niesamowity efekt zakrywania podkreśla rozprzestrzeniającą się zarazę, z którą walczymy w grze!"
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Animacje 3D to również nasza zasługa! Moment z rozrzucaniem tokenów czy efektowny obrót skrzynią wyszły spod naszych rąk, mając jedynie zdjęcia frontalne. Te smaczki zrobiły niesamowitą dynamikę podczas opowieści.  A sprytne połączenie gameplaya z serwisem i animacją tokenów w płynny sposób przedstawiły zalety serwisu, który ma zbudować jeszcze ciekawsze doświadczenia dla gracza."
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„W finałowych momentach filmu wykorzystaliśmy motyw migoczącego światła. Jest to mega prosty i efektowny trik, który ma mocniej skupić uwagę na logotypie i przycisku z call to action.”",
+                "author": {
+                  "name": "Paweł",
+                  "role": "Odpowiedzialny za animację",
+                  "img": "/images/pawel.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/Pilgrim/DL2_Pilgrim_gif2.gif"
+              }
+            }
+          ]
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Misja zakończona sukcesem",
+              "description": [
+                [
+                  {
+                    "paragraph": "Efekty naszej pracy zostały zaprezentowane na streamie promującym nową platformę, który cieszył się ogromnym zainteresowaniem społeczności graczy! "
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Możliwość dodania od siebie kolejnej, małej cegiełki do gry, którą uwielbiamy, jest czymś, co zawsze sprawia nam ogrom radości!"
+                  }
+                ]
+              ]
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/Pilgrim/DL2_Pilgrim_gif4.gif"
+              }
+            }
+          ]
+        },
+        {
+          "video": {
+            "ytId": "GxZhWCbTp1o",
+            "autoplay": 0,
+            "mute": 0,
+            "loop": 1,
+            "withBackground": true,
+            "caption": "Gut Feeling Update Stream, Developer Segment - Dying Light 2 Stay Human / Pilgrim (11')"
+          },
+          "quote": {
+            "text": "„Animację tworzyliśmy na potrzeby streama na Twitchu, gdzie miała mieć ona swoją premierę, jako część większej transmisji i zaprezentować społeczności nową platformę z super korzyściami dla użytkowników. Chcieliśmy stworzyć coś, co pokaże graczom, jak niesamowite nagrody mogą zdobyć i sprawi, że będą chcieli skorzystać z Pilgrim Outpost.”",
+            "author": {
+              "name": "Piotr",
+              "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
+              "img": "/images/piotr.jpg"
+            },
+            "fancyImg": {
+              "src": "/images/fancy2.svg",
+              "position": "right",
+              "value": -100,
+              "top": 36
+            },
+            "top": true
+          }
+        },
+        {
+          "img": {
+            "src": "/images/Pilgrim/DL2_PilgrimOutpost_bottom.jpg",
+            "withBackground": false
+          },
+          "quote": {
+            "text": "„Zespół Trzask jak zwykle pozytywnie nas zaskoczył swoją kreatywnością. Proaktywne i profesjonalne podejście do tak ważnego projektu, jakim jest Pilgrim Outpost, to jest coś, co jest dla nas szczególnie istotne. Nieszablonowa postawa teamu Piotra pozwoliła na stworzenie świetnej animacji, która idealnie odzwierciedla świat Dying Light 2 Stay Human.”",
+            "author": {
+              "name": "Magda Marcinkowska",
+              "role": "Digital Producer - Team Lead",
+              "img": "/images/logo_tech.jpg"
+            },
+            "top": true,
+            "bold": true,
+            "fancyImg": {
+              "src": "/images/fancy4.svg",
+              "position": "left",
+              "value": -40,
+              "top": 64
+            }
+          }
+        }
+      ]
+    },
+    {
+      "slug": "SaarGummi Neo",
+      "tag": "SaarGummi Neo",
+      "tags": [
+        "Video",
+        "3D",
+        "Automotive",
+        "Technology"
+      ],
+      "title": "Innowacyjny produkt = innowacyjny explainer",
+      "caption": [
+        "#design #animation",
+        "Jak pokazać uszczelki samochodowe, żeby nie móc oderwać od nich wzroku? Zobacz case study SaarGummi Neo!"
+      ],
+      "img": "/images/SaarGummi_header_v1.jpg",
+      "description": [
+        [
+          {
+            "paragraph": "Firma "
+          },
+          {
+            "link": "https://neo.saargummi.com/",
+            "text": "SaarGummi Neo",
+            "target": "_blank"
+          },
+          {
+            "paragraph": ", z siedzibą w Niemczech, jest częścią SaarGummi Group, która zajmuje się produkcją wytrzymałej i wydajnej gumy, używanej przy inżynierii samochodowej i budowlanej."
+          }
+        ],
+        [
+          {
+            "paragraph": "Samo SaarGummi Neo specjalizuje się w robotyce, rzeczywistości rozszerzonej, drukowaniu 3D i innowacyjnych koncepcjach uszczelniania. I właśnie na uszczelkach samochodowych mieliśmy się skupić, tworząc dla marki explainer, który w przejrzysty sposób wyjaśni działanie i specyfikacje zupełnie nowej koncepcji produktu."
+          }
+        ]
+      ],
+      "fancyImg": {
+        "src": "/images/fancy1.svg",
+        "position": "left",
+        "value": -200,
+        "top": -30
+      },
+      "authors": [
+        {
+          "name": "Piotr Bielecki",
+          "role": "Production Director & Owner of Trzask",
+          "img": "/images/piotr.jpg"
+        },
+        {
+          "name": "Paweł Grabowski",
+          "role": "Lead animator",
+          "img": "/images/pawel.jpg"
+        },
+        {
+          "name": "Joanna Jakobielska",
+          "role": "Business Development Director",
+          "img": "/images/joanna.jpg"
+        },
+        {
+          "name": "Sven Müller",
+          "role": "Managing Director of SaarGummi Neo",
+          "img": "/images/saargummi_neo_logo2.png"
+        }
+      ],
+      "sections": [
+        {
+          "video": {
+            "ytId": "T0BsEG1kacs",
+            "autoplay": 0,
+            "mute": 0,
+            "loop": 1,
+            "caption": "SaarGummi Neo / Promo video / Production: Trzask Studio ",
+            "withBackground": false
+          }
+        },
+        {
+          "span": 5,
+          "left": [
+            {
+              "title": "Ożywić scenariusz",
+              "description": [
+                [
+                  {
+                    "paragraph": "Przebieg współpracy był jasny dla wszystkich - SaarGummi Neo dostarcza nam scenariusz filmu, my animujemy. Jednak, żeby naprawdę ogarnąć technikalia produktu, marka uzbroiła nas w super szczegółowy brief i wdrożyła nas w mocno techniczne aspekty swojego produktu, tak abyśmy lepiej zrozumieli cel animacji."
+                  }
+                ]
+              ]
+            }
+          ],
+          "right": [
+            {
+              "exclemation": {
+                "text": [
+                  "Cel nadrzędny:",
+                  "Zaprojektowanie explainera, który pomoże odbiorcom zrozumieć produkty i odróżnić je przed decyzją o zakupie.  "
+                ]
+              }
+            }
+          ],
+          "img": {
+            "src": "/images/posts/SG_560x996_Gif3.gif",
+            "withBackground": true
+          },
+          "quote": {
+            "text": "„Żeby zrobić naszą robotę jak należy, poświęcamy dużą część czasu na zrozumienie produktu, który mamy przedstawić. Tak też było w tym przypadku, zwłaszcza, że przed rozpoczęciem współpracy z klientem nikt z nas nie miał za dużego pojęcia o uszczelkach samochodowych. Teraz? Czujemy się prawie jak eksperci!”",
+            "author": {
+              "name": "Piotr",
+              "role": "Odpowiedzialny za dyrekcję artystyczną",
+              "img": "/images/piotr.jpg"
+            },
+            "fancyImg": {
+              "src": "/images/fancy2.svg",
+              "position": "right",
+              "value": -100,
+              "top": 36
+            },
+            "top": true
+          }
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Misterny montaż",
+              "description": [
+                [
+                  {
+                    "paragraph": "Wszystkie elementy 3D zaprojektowaliśmy i wykonaliśmy własnoręcznie, co pozwoliło nam na pełną kontrolę nad animacją i jej dynamiką. Dzięki wykorzystaniu dłoni mimów, zaprezentowaliśmy różne warianty montażu uszczelek w niezwykle atrakcyjny sposób."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Dodatkowo, żeby film był jeszcze ciekawszy i angażujący, wprowadziliśmy dynamiczne animacje zbliżeń na poszczególne elementy. A wszystko to w akompaniamencie nieinwazyjnej melodii, która idealnie podkreślała zastosowanie filmu."
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Pracując nad tym filmem mieliśmy niezwykle dużo funu! Dowiedzieliśmy się sporo o tej branży i jednocześnie mogliśmy przygotować makiety 3D, które były zdecydowaną gwiazdą tego explainera!”",
+                "author": {
+                  "name": "Paweł",
+                  "role": "Odpowiedzialny za animację",
+                  "img": "/images/pawel.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/posts/SaarGummi_Gif6B.gif"
+              }
+            }
+          ]
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Magiczne trzy minuty",
+              "description": [
+                [
+                  {
+                    "paragraph": "Tak oto powstał trzy-minutowy, profesjonalny explainer, który wyczerpująco i przede wszystkim zrozumiale, wyjaśniał technikalia i zawiłości produktu."
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Praca z klientem zagranicznym, przy tak szczegółowym i technologicznym projekcie, na pewno była wyzwaniem, którego podjęliśmy się i z którego jesteśmy mega dumni!”",
+                "author": {
+                  "name": "Joanna",
+                  "role": "Odpowiedzialna za koordynacje projektu",
+                  "img": "/images/joanna.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/posts/SaarGummi_Gif5.gif"
+              }
+            }
+          ],
+          "quote": {
+            "text": "„Współpraca z Trzask! Studio sprawiła nam dużo satysfakcji. Zdecydowaliśmy się na przygotowanie animacji, ponieważ wideo dużo lepiej oddziaływuje na zrozumienie procesu nie tylko wewnątrz naszej organizacji, ale szczególnie na zrozumienie i poznanie produktu po stronie producentów pojazdów. Złożoność tematu i jego szczegółowość w tym projekcie była dość duża, ale ekipa Trzask! Studio i mój zespół włożyli wiele wysiłku w ten projekt, tworząc niezwykle dobrze zaprojektowany i wyjaśniający detale  film.”",
+            "author": {
+              "name": "Sven Müller",
+              "role": "Managing Director of SaarGummi Neo",
+              "img": "/images/saargummi_neo_logo2.png"
+            },
+            "top": true,
+            "bold": true,
+            "fancyImg": {
+              "src": "/images/fancy4.svg",
+              "position": "left",
+              "value": -40,
+              "top": 64
+            }
+          }
+        }
+      ]
+    },
+    {
+      "slug": "dooti-donuts",
+      "tag": "Dooti Donuts",
+      "tags": [
+        "Rich media",
+        "3D",
+        "FMCG",
+        "Kids"
+      ],
+      "title": "Stwórz własnego donuta, a on powie Ci co o tym myśli",
+      "caption": [
+        "#design #animation",
+        "Jedni chcieliby rozmawiać ze zwierzętami, my chcielibyśmy pogadać z donutami! Przeczytaj case study Dooti Donuts i dowiedz się, jak tego dokonaliśmy!"
+      ],
+      "img": "/images/donut_genzie_header_v3 (2).jpg",
+      "description": [
+        [
+          {
+            "paragraph": "Zastanawiasz się czasem, jakby to było porozmawiać z donutem? My tak i możemy szczerze powiedzieć, że taka rozmowa byłaby mega ciekawa! A wiemy to na pewno, bo właśnie "
+          },
+          {
+            "link": "https://dootidonuts.pl/GENZIE/",
+            "text": "takiego donuta",
+            "target": "_blank"
+          },
+          {
+            "paragraph": " stworzyliśmy w oparciu o słodko-sztuczną inteligencję i persony naszych odbiorców. Co ciekawe nasz kreator wywalczył sobie statuetkę w konkursie "
+          },
+          {
+            "link": "https://mixx-awards.pl/",
+            "text": "MIXX Awards",
+            "target": "_blank"
+          },
+          {
+            "paragraph": " 2023!"
+          }
+        ],
+        [
+          {
+            "paragraph": "Czytaj dalej, a dowiesz się, jak powstał jeden z najbardziej ambitnych projektów naszego studia, w którym użytkownicy wygenerowali 2,3 mln zdarzeń na stronie internetowej, a w ramach Facebookowego konkursu stworzonych zostało 56 tysięcy kolorowych donutów. "
+          }
+        ]
+      ],
+      "fancyImg": {
+        "src": "/images/fancy1.svg",
+        "position": "left",
+        "value": -200,
+        "top": -30
+      },
+      "authors": [
+        {
+          "name": "Piotr Bielecki",
+          "role": "Production Director & Owner of Trzask",
+          "img": "/images/piotr.jpg"
+        },
+        {
+          "name": "Weronika Bielecka",
+          "role": "Project Manager",
+          "img": "/images/weronika.jpg"
+        },
+        {
+          "name": "Łukasz Urban",
+          "role": "Art director",
+          "img": "/images/lukasz.jpg"
+        },
+        {
+          "name": "Mariusz Walach",
+          "role": "Animator",
+          "img": "/images/mariusz.jpg"
+        },
+        {
+          "name": "Mateusz Gradziński",
+          "role": "Brand Manager",
+          "img": "/images/posts/logo_dooti.jpg"
+        },
+        {
+          "name": "Konrad Wiktor",
+          "role": "Marketing Manager",
+          "img": "/images/posts/logo_dooti.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "video": {
+            "ytId": "vJ1wzxhusnM",
+            "autoplay": 0,
+            "mute": 0,
+            "loop": 1,
+            "caption": "Dooti Donuts - Creator App / Production: Trzask Studio (concept, design, animation, programming, 3D), Stokson - brand owner (coordination of works), Get Hero (influencer materials), Adheads (promoting the competition, managing social media) 2023",
+            "withBackground": false
+          }
+        },
+        {
+          "span": 5,
+          "left": [
+            {
+              "title": "Jak szalone pomysły stają się prawdą",
+              "description": [
+                [
+                  {
+                    "paragraph": "Pierwszym etapem w naszych projektach są zawsze research, inspiracja i koncepcja. Tak też postąpiliśmy, gdy otrzymaliśmy od "
+                  },
+                  {
+                    "link": "https://dootidonuts.pl/d/",
+                    "text": "Dooti Donuts",
+                    "target": "_blank"
+                  },
+                  {
+                    "paragraph": " brief na stworzenie interaktywnej zabawy na stronę marki. Wspólnie zdecydowaliśmy, że zaprojektujemy kreator, w którym odbiorcy będą mogli wykonać własnego, wymarzonego donuta. Ale to nie wszystko! Donuty miały mieć własne osobowości i mówić do ludzi!"
+                  }
+                ]
+              ]
+            }
+          ],
+          "right": [
+            {
+              "exclemation": {
+                "text": [
+                  "Cel nadrzędny:",
+                  "Pogadać z donutem!"
+                ]
+              }
+            }
+          ],
+          "img": {
+            "src": "/images/posts/donut_foto_3d.jpg",
+            "withBackground": false
+          },
+          "quote": {
+            "text": "„Koncepcja z ożywieniem osobowości donuta mocno nas nakręciła. Obmyślenie wizji, projektowanie kilkuset wariantów postaci, animacja kilkudziesięciu sytuacji oraz programowanie mechanizmu konkursowego było niesamowitym wyzwaniem. Kto jak nie my? Jazda!”",
+            "author": {
+              "name": "Piotr",
+              "role": "Odpowiedzialny za oprogramowanie oraz dyrekcję artystyczną",
+              "img": "/images/piotr.jpg"
+            },
+            "fancyImg": {
+              "src": "/images/fancy2.svg",
+              "position": "right",
+              "value": -100,
+              "top": 36
+            },
+            "top": true
+          }
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Personifikacja odbiorców w słodkiej odsłonie",
+              "description": [
+                [
+                  {
+                    "paragraph": "Aby mocniej wpasować się w głowy graczy, stworzyliśmy cztery persony donuta, które diametralnie różniły się między sobą. Zmieniało się ich zachowanie oraz słownictwo, kojarzące się z konkretnymi cechami behawioralnymi danych społeczności pasujących do grupy docelowej. Łącznie, wymyśliliśmy prawie 80 tekstów dla naszych donutów, które odpowiadały na najróżniejsze scenariusze i sytuacje. "
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Nie mogło też zabraknąć elementów sprzedażowych. Jeśli ułożysz docelowe ‘ubranko’ realnego donuta z oferty Dooti Donuts to nasz kolega zaprosi Cię na zakupy do sklepu i powie jak się nazywa! (np Cookies)."
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Uwielbiamy easter egg’i! Dlatego tutaj też nie mogło ich zabraknąć! Donut po wybraniu odpowiedniej sekwencji elementów otrzymuje prawdziwy złoty łańcuch. Nie bylibyśmy sobą gdybyśmy nie dodali kilku ‘wisienek’ w tym projekcie.”",
+                "author": {
+                  "name": "Weronika",
+                  "role": "Odpowiedzialna za koordynację projektu",
+                  "img": "/images/weronika.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/posts/Donut_Genzie_Gif011.gif"
+              }
+            }
+          ]
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Słodko-sztuczna inteligencja w grze",
+              "description": [
+                [
+                  {
+                    "paragraph": "Donuty w "
+                  },
+                  {
+                    "link": "https://dootidonuts.pl/GENZIE/",
+                    "text": "kreatorze",
+                    "target": "_blank"
+                  },
+                  {
+                    "paragraph": " miały łaskotki, mogły poczuć się zmęczone lub znudzone, czasem były trochę wybredne, ale jak coś im się spodobało, nie omieszkały o tym powiedzieć! Wszystko zawdzięczamy unikalnym skryptom, które sprytnie wpływały na osobowość postaci."
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Każde kliknięcie i osadzenie dodatku było sprawdzane przez unikalny silnik sterowania postacią i jeśli stwierdził on, że donut ma już dość, albo go to ‘zagilgocze’ to nasz bohater odpowiednio reagował ruchem oraz komunikatem. Tak samo było, gdy odbiorca nic nie robił. Donut komentował dosłownie wszystko!”",
+                "author": {
+                  "name": "Mariusz",
+                  "role": "Odpowiedzialny za animację postaci",
+                  "img": "/images/mariusz.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/posts/Donut_Genzie_Gif06.gif"
+              }
+            }
+          ]
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Zabawny konkurs",
+              "description": [
+                [
+                  {
+                    "paragraph": "Cała akcja z ubieraniem donutów była wsparciem dla nowopowstałego donuta "
+                  },
+                  {
+                    "link": "https://www.youtube.com/@GENZIEE",
+                    "text": "GENZIE",
+                    "target": "_blank"
+                  },
+                  {
+                    "paragraph": " a kreator miał za zadanie rozkochać fanów grupy w DOOTI DONUTS. Odbiorcy przejęli stery i tworzyli własne, wymarzone donuty, inspirowane ulubionymi członkami GENZIE."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "A gdzie ta marchewka? Wewnątrz kreatora stworzyliśmy specjalny aparat! Aby wygrać nagrodę, wystarczyło zdjęcie i link w "
+                  },
+                  {
+                    "link": "https://www.facebook.com/DootiDonuts/posts/pfbid0vTKsfiGpwGEbnypDZpxbN3YFWpbyo5ozeJNeUivJCo7sCgnHG96vEBTkbptGxgCul",
+                    "text": "poście promocyjnym",
+                    "target": "_blank"
+                  },
+                  {
+                    "paragraph": " na Facebooku. Jego specjalna konstrukcja pozwalała wyświetlić miniaturkę w komentarzu - dzięki temu inni od razu mogli dać lajka! Widzieliśmy od razu, który podoba sie najmocniej społeczności co ułatwiało wybranie tego najpiękniejszego. Do wygrania było 8 nagród po 1000 zł dla każdego."
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Start samego konkursu nie był przypadkowy, ponieważ z całą komunikacją ruszyliśmy 2 czerwca, czyli w Światowy Dzień Donuta, czyli w dniu który dla naszej marki ma przeogromne znaczenie!”",
+                "author": {
+                  "name": "Mateusz Gradziński",
+                  "role": "Brand Manager",
+                  "img": "/images/posts/logo_dooti.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/posts/Donut_Genzie_Gif04.gif"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Giga wsparcie",
+          "description": [
+            [
+              {
+                "paragraph": "Nasz kreator stał się narzędziem komunikacji DOOTI DONUTS. Zarówno konkurs jak i sam kreator były promowane na TikToku, Facebooku, Instagramie, a nawet na Twitchu!"
+              }
+            ],
+            [
+              {
+                "paragraph": "Aktywację wspierała też grupa GENZIE, która podbiła serca młodego pokolenia w ostatnim roku. Szereg ich publikacji w social mediach dodał mocnego boosta kampanii. Ekipa bawiła się wspólnie w kreowanie swoich wariantów postaci, co chwilę opowiadając o tym na swoich kanałach. "
+              }
+            ],
+            [
+              {
+                "paragraph": "Wszystkie te działania sprawiły, że kreator stał się absolutnym hitem, gdzie materiały z gameplaya krążyły po TikToku i Instagramie! "
+              }
+            ]
+          ],
+          "img": {
+            "src": "/images/blog/donut_foto_social_videos_v2.jpg",
+            "withBackground": false
+          },
+          "quote": {
+            "text": "„Kreator dawał możliwość wpisywania własnych tekstów, którą konkursowicze wykorzystywali do tworzenia własnych, krótkich historyjek. To mocno podnosiło zasięgi kampanii oraz podkręcało szansę na wygraną.”",
+            "author": {
+              "name": "Łukasz",
+              "role": "Odpowiedzialny za estetykę projektu",
+              "img": "/images/lukasz.jpg"
+            },
+            "fancyImg": {
+              "src": "/images/fancy3.svg",
+              "position": "left",
+              "value": -90,
+              "top": 48
+            }
+          }
+        },
+        {
+          "title": "Finał i 130 tysięcy kolorowych donutów",
+          "description": [
+            [
+              {
+                "paragraph": "Wyniki zaskoczyły dosłownie wszystkich! W sam Światowy Dzień Donuta, czyli pierwszego dnia konkursu, było ponad 100 000 wejść na stronę kreatora! Donut GENZIE został top SKU w okresie aktywacji, a shoutboxy marki zostały zapchane na wszystkich profilach!"
+              }
+            ],
+            [
+              {
+                "paragraph": "Post na Facebooku DOOTI DONUTS miał ponad 5 300 reakcji i 56 000 zgłoszeń konkursowych! W kreatorze powstało prawie 130 000 słodkich donutów, średnio użytkownik spędził 1,5 minuty na zabawę, a liczba zdarzeń osiągnęła 2,3 mln interakcji w przeciągu 2 tygodni. "
+              }
+            ]
+          ],
+          "img": {
+            "src": "/images/posts/donut_foto_social_coments11.jpg",
+            "withBackground": false
+          },
+          "quote": {
+            "text": "„Wyobrażacie sobie, że waga wygenerowanych plików wyniosła prawie 22 gigabajty? Aż ciężko w to uwierzyć, to jak trylogia GTA na Nintendo Switch! Wiedzieliśmy, że nasz kreator mocno zaskoczy, dlatego tym bardziej cieszy mnie fakt, że był wykorzystywany do tak szalonej akcji!”",
+            "author": {
+              "name": "Piotr",
+              "role": "Odpowiedzialny za oprogramowanie oraz dyrekcję artystyczną",
+              "img": "/images/piotr.jpg"
+            },
+            "fancyImg": {
+              "src": "/images/fancy3.svg",
+              "position": "left",
+              "value": -90,
+              "top": 48
+            }
+          }
+        },
+        {
+          "title": "Produkty w realu",
+          "description": [
+            [
+              {
+                "paragraph": "Ale to nawet nie najważniejsza część - nasz kreator nie był tylko słodką zabawą. Był narzędziem dającym realne możliwości! DOOTI DONUTS odwzorowało 8 zwycięskich donutów, a Genziaki mogli się nimi zajadać w jednym z ich youtubowych odcinków!"
+              }
+            ]
+          ],
+          "video": {
+            "ytId": "b6cLdA26fhQ",
+            "autoplay": 0,
+            "mute": 0,
+            "loop": 1,
+            "caption": "GENZIE - NAJLEPSZE ZDJĘCIA WYGRYWAJĄ!",
+            "withBackground": false
+          }
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Mechanizm eventowy",
+              "description": [
+                [
+                  {
+                    "paragraph": "Nasz kreator to nie tylko narzędzie do zabawy online, w realu też można go wykorzystać! Poza sferą wirtualną, swoją premierę zaliczył również na eventach live w pięciu największych miastach Polski, gdzie młodzi mogli konkurować o nagrody."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "Jak to działało? Uczestnicy podchodzili do stanowiska, skanowali specjalny QR kod, który następnie przenosił ich do kreatora. Tam, na swoich smartfonch, mogli tworzyć autorskie donuty i zgłosić je pod postami na Facebooku, dedykowanymi poszczególnym miastom."
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Chyba najbardziej niesamowitym przeżyciem w tej akcji było oglądanie w czasie rzeczywistym tyle osób bawiących się naszym kreatorem w tym samym momencie!”",
+                "author": {
+                  "name": "Weronika",
+                  "role": "Odpowiedzialna za koordynację projektu",
+                  "img": "/images/weronika.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/posts/dooti_gif_560x996.gif"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Niesamowita społeczność",
+          "description": [
+            [
+              {
+                "paragraph": "Kreator promowany był również na Tik Toku, czyli w centrum naszej grupy docelowej, która jak się okazało zachwyciła się zabawą i możliwością zdobycia super nagród. Sam "
+              },
+              {
+                "link": "https://www.tiktok.com/@dootidonuts_pl/video/7239328824318594330",
+                "text": "TikTok",
+                "target": "_blank"
+              },
+              {
+                "paragraph": " Genzie o konkursie miał prawie 30 000 reakcji, oraz 6,9 mln. wyświetleń, a w komentarzach dzieciaki rozwijały swoje opowieści na temat danych donutów!"
+              }
+            ],
+            [
+              {
+                "paragraph": "Cieszymy się, że konkurs spotkał się z tak dobrym odbiorem i, że dał on wiele radości tej społeczności! Stworzenie tak zaawansowanego systemu było nie lada wyzwaniem, ale końcowy wynik był tego wart!"
+              }
+            ]
+          ],
+          "img": {
+            "src": "/images/posts/donut_foto_tiktok_coments _liczby.jpg",
+            "withBackground": false
+          }
+        },
+        {
+          "title": "MIXX Awards",
+          "description": [
+            [
+              {
+                "paragraph": "Facebookowy konkurs i wszystko co wydarzyło sie wokół kreatora Donutów przyniosło nam wielkie wyróżnienie. Mianowicie statuetkę MIXX Awards!!"
+              },
+              {
+                "link": "https://trzask.com/pl/blog/MIXX%20Awards",
+                "text": " Czytaj więcej... ",
+                "target": "_blank"
+              }
+            ]
+          ],
+          "img": {
+            "src": "/images/Trzask-MixxAwards2023_foto.jpg",
+            "withBackground": false
+          },
+          "quote": {
+            "text": "„Cała akcja przekroczyła nasze oczekiwania! Wszystkie działania, które zaplanowaliśmy przyczyniły się do sukcesu nowego donuta GENZIE. To na pewno nie była ostatnia aktywacja z kreatorem, który zdecydowanie udowodnił swoją skuteczność. Dziękujemy ekipie Trzask za stworzenie takiego narzędzia.”",
+            "author": {
+              "name": "Konrad Wiktor",
+              "role": "Marketing Manager",
+              "img": "/images/posts/logo_dooti.jpg"
+            },
+            "top": true,
+            "bold": true,
+            "fancyImg": {
+              "src": "/images/fancy4.svg",
+              "position": "left",
+              "value": -40,
+              "top": 64
+            }
+          }
+        }
+      ]
+    },
+    {
+      "slug": "TEDx Polska",
+      "tag": "TEDx Polska",
+      "tags": [
+        "Video"
+      ],
+      "title": "Tradycyjna architektura w przyszłościowym stylu ",
+      "caption": [
+        "#design #animation",
+        "Jak stworzyć nową animację z czegoś, co już znamy? Sprawdź case study TEDx Polska i zobacz, jak odświeżyliśmy warszawską architekturę!"
+      ],
+      "img": "/images/posts/TEDx_header_v1.jpg",
+      "description": [
+        [
+          {
+            "paragraph": "Oddanie ducha danego miasta z szacunkiem i jednocześnie kreatywnym twistem wbrew pozorom nie należy do najłatwiejszych zadań. "
+          }
+        ],
+        [
+          {
+            "paragraph": "Chcąc pokazać charakterystyczne elementy miejsca, ale nie kopiując ich jeden do jednego potrafi być wyzwaniem. Na szczęście w naszym Trzask Studio jest sporo kreatywnych głów! "
+          }
+        ],
+        [
+          {
+            "paragraph": "Dlatego czytaj dalej i zobacz, jak oddaliśmy ducha Warszawy w ponadczasowym projekcie przygotowanym dla "
+          },
+          {
+            "link": "https://www.ted.com/",
+            "text": "TEDx Polska",
+            "target": "_blank"
+          },
+          {
+            "paragraph": "!"
+          }
+        ]
+      ],
+      "fancyImg": {
+        "src": "/images/fancy1.svg",
+        "position": "left",
+        "value": -200,
+        "top": -30
+      },
+      "authors": [
+        {
+          "name": "Piotr Bielecki",
+          "role": "Production Director & Owner of Trzask",
+          "img": "/images/piotr.jpg"
+        },
+        {
+          "name": "Paweł Grabowski",
+          "role": "Lead animator",
+          "img": "/images/pawel.jpg"
+        },
+        {
+          "name": "Joanna Jakobielska",
+          "role": "Business Development Director",
+          "img": "/images/joanna.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "video": {
+            "ytId": "qkZqwguaIvk",
+            "autoplay": 0,
+            "mute": 0,
+            "loop": 1,
+            "caption": "TEDx In a Heartbeat / Promo video / Production: Trzask Studio (Sfx, sound, animation) / 2016"
+          }
+        },
+        {
+          "span": 5,
+          "left": [
+            {
+              "title": "Tętniący życiem event",
+              "description": [
+                [
+                  {
+                    "paragraph": "TED jest marką, której nie trzeba nikomu przedstawiać. Podbili świat z hukiem, prowadząc super ciekawe i przystępne dla wszystkich, konferencje naukowe. Eventy prowadzone są w wielu krajach, w tym w Polsce."
+                  },
+                  {
+                    "paragraph": " I tak oto mieliśmy okazję podjąć się współpracy przy tworzeniu animacji dla jednej z konferencji, które odbyły się w warszawskim "
+                  },
+                  {
+                    "link": "https://polin.pl/pl",
+                    "text": "Muzeum Polin",
+                    "target": "_blank"
+                  },
+                  {
+                    "paragraph": "."
+                  }
+                ]
+              ]
+            }
+          ],
+          "right": [
+            {
+              "exclemation": {
+                "text": [
+                  "Cel nadrzędny:",
+                  "Oddać bijące serce warszawskiego ducha w animacji promujący event TEDx Polska."
+                ]
+              }
+            }
+          ],
+          "img": {
+            "src": "/images/TEDx_foto3 (1).jpg",
+            "withBackground": false
+          },
+          "quote": {
+            "text": "„Ekscytacja to mało powiedziane, co czuliśmy, gdy dowiedzieliśmy się, że będziemy tworzyć specjalną animację na jeden z eventów TEDx Polska. Wiedzieliśmy, że to musi być coś wyjątkowego!”",
+            "author": {
+              "name": "Piotr",
+              "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
+              "img": "/images/piotr.jpg"
+            },
+            "fancyImg": {
+              "src": "/images/fancy2.svg",
+              "position": "right",
+              "value": -100,
+              "top": 36
+            },
+            "top": true
+          }
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "W rytmie czerwieni",
+              "description": [
+                [
+                  {
+                    "paragraph": "Razem z TEDx Polska rozpisaliśmy scenariusz animacji, która miała być motywem pokazywanym w trakcie warszawskiej konferencji. Chcieliśmy, żeby animacja skupiała uwagę, jednocześnie nie przytłaczając szczegółami. Skupiliśmy się na motywie pulsu i bicia serca oraz czerwieni reprezentującej TEDx."
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Zależało nam przede wszystkim na tym, żeby kreska miała swój charakter, dlatego wybraliśmy styl liniowy, jako ten, którym będziemy się posługiwać przy tej animacji. Ten styl idealnie oddaje TEDx, a zrobienie wszystkiego w czerwieni jeszcze bardziej to wzmacnia!”",
+                "author": {
+                  "name": "Paweł",
+                  "role": "Odpowiedzialny za animację",
+                  "img": "/images/pawel.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/posts/syrenka_tedx2.gif"
+              }
+            }
+          ]
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Neonowe miasto",
+              "description": [
+                [
+                  {
+                    "paragraph": "Animacja miała przedstawiać charakterystyczne warszawskie zabytki i budowle, takie jak pomnik Syreny nad Wisłą. Wszystko zostało zaanimowane w ponadczasowej linearnej formie połączonej z neonowymi elementami, które dodały animacji futurystycznego efektu."
+                  }
+                ],
+                [
+                  {
+                    "paragraph": "A żeby nadać animacji mocy, dodaliśmy podniosłą muzykę, która perfekcyjnie zrównoważyła płynną animację."
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Warszawa jest jednym z tych miast, które dosłownie tętnią życiem. Dlatego, jako motyw przewodni, wybraliśmy bicie serca, które nie tylko mega łączy się ze stylem liniowym, ale też kolorystyką i duchem miasta.”",
+                "author": {
+                  "name": "Piotr",
+                  "role": "Odpowiedzialny za kreowanie pomysłów i realizację projektu",
+                  "img": "/images/piotr.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/posts/budynek_tedx.gif"
+              }
+            }
+          ]
+        },
+        {
+          "span": 4,
+          "left": [
+            {
+              "title": "Rytmiczna współpraca",
+              "description": [
+                [
+                  {
+                    "paragraph": "Tworząc animację, możemy inspirować się wszystkim. To co sprawia, że jest ona wyjątkowa to sposób, w jaki połączymy dane elementy. Kreatywne połączenie tradycyjnej architektury z futurystycznymi elementami grafiki to jest to, co sprawiło, że animacja dla TEDx Polska jest dla nas tak szczególna."
+                  }
+                ]
+              ],
+              "quote": {
+                "text": "„Pracując blisko z TEDx Polska mieliśmy okazję wspólnie zaprojektować coś naprawdę niezwykłego. Cieszymy się, że mogliśmy stworzyć animację, która jest absolutnie ponadczasowa i pokazuje ducha zarówno marki jak i miejsca, w którym odbyła się konferencja!”",
+                "author": {
+                  "name": "Joanna",
+                  "role": "Odpowiedzialna za koordynacje projektu",
+                  "img": "/images/joanna.jpg"
+                },
+                "fancyImg": {
+                  "src": "/images/fancy3.svg",
+                  "position": "left",
+                  "value": -90,
+                  "top": 48
+                }
+              }
+            }
+          ],
+          "right": [
+            {
+              "img": {
+                "src": "/images/posts/ted x tetno.gif"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "slug": "Dying Light 2",
       "tag": "Dying Light 2",
+      "tags": [
+        "HTML5",
+        "Gaming"
+      ],
       "title": "Jak wybić promocję gry na wyższy LVL!",
       "caption": [
         "#banners #animation #richmedia #games",
@@ -1843,7 +2710,7 @@
       "authors": [
         {
           "name": "Piotr Bielecki",
-          "role": "Owner and Head of Trzask",
+          "role": "Production Director & Owner of Trzask",
           "img": "/images/piotr.jpg"
         },
         {
@@ -1855,6 +2722,11 @@
           "name": "Łukasz Urban",
           "role": "Art director",
           "img": "/images/lukasz.jpg"
+        },
+        {
+          "name": "Hanna Kwiatkowska",
+          "role": "Senior Marketing Project Manager",
+          "img": "/images/logo_tech.jpg"
         }
       ],
       "sections": [
@@ -1906,7 +2778,7 @@
             }
           ],
           "video": {
-            "ytId": "P__9KlbaUHM",
+            "ytId": "jelOdDP2xF8",
             "autoplay": 0,
             "mute": 0,
             "loop": 1,
@@ -2128,6 +3000,11 @@
     {
       "slug": "HealthLabsCare",
       "tag": "Health Labs Care",
+      "tags": [
+        "Video",
+        "FMCG",
+        "Beauty"
+      ],
       "title": "Estetyka to podstawa marketingu, czyli jak ze statycznych grafik stworzyć reklamę wideo",
       "caption": [
         "#design #animation",
@@ -2155,7 +3032,7 @@
       "authors": [
         {
           "name": "Piotr",
-          "role": "Owner and Head of Trzask",
+          "role": "Production Director & Owner of Trzask",
           "img": "/images/piotr.jpg"
         },
         {
@@ -2172,6 +3049,11 @@
           "name": "Mariusz Walach",
           "role": "Animator",
           "img": "/images/mariusz.jpg"
+        },
+        {
+          "name": "Michał Duszczyk",
+          "role": "Creative Director",
+          "img": "/images/posts/logo_healthlabs.jpg"
         }
       ],
       "sections": [
@@ -2450,6 +3332,12 @@
     {
       "slug": "PaczkaDonutow",
       "tag": "Paczka Donutów",
+      "tags": [
+        "Rich media",
+        "3D",
+        "FMCG",
+        "Kids"
+      ],
       "title": "Paczka Donutów i grywalizacja na stronie marki, czyli nowy sposób na marketing",
       "caption": [
         "#design #animation #games",
@@ -2482,7 +3370,7 @@
       "authors": [
         {
           "name": "Piotr",
-          "role": "Owner and Head of Trzask",
+          "role": "Production Director & Owner of Trzask",
           "img": "/images/piotr.jpg"
         },
         {
@@ -2499,6 +3387,11 @@
           "name": "Łukasz Urban",
           "role": "Art director",
           "img": "/images/lukasz.jpg"
+        },
+        {
+          "name": "Mateusz Gradziński",
+          "role": "Brand Manager",
+          "img": "/images/posts/logo_dooti.jpg"
         }
       ],
       "sections": [
@@ -2710,7 +3603,7 @@
             "text": "„Współpraca ze studiem Trzask zawsze sprawia nam wiele radości i dodaje inspiracji. To nie tylko zespół, który wykonuje solidną pracę, ale przede wszystkim osoby pełne kreatywnej energii, które rozumieją naszą markę, jak mało kto! ”",
             "author": {
               "name": "Mateusz Gradziński",
-              "role": "Brand manager",
+              "role": "Brand Manager",
               "img": "/images/posts/logo_dooti.jpg"
             },
             "top": true,
@@ -2728,6 +3621,11 @@
     {
       "slug": "PasiekiRodzinySadowskich",
       "tag": "Pasieki Rodziny Sadowskich",
+      "tags": [
+        "Video",
+        "FMCG",
+        "Kids"
+      ],
       "title": "Słodkie jak miód animacje z trzaskowym twistem",
       "caption": [
         "#design #animation",
@@ -2750,7 +3648,7 @@
       "authors": [
         {
           "name": "Piotr",
-          "role": "Owner and Head of Trzask",
+          "role": "Production Director & Owner of Trzask",
           "img": "/images/piotr.jpg"
         },
         {
@@ -2761,7 +3659,12 @@
         {
           "name": "Mariusz Walach",
           "role": "Animator",
-          "img": "/images/Łukasz.jpg"
+          "img": "/images/mariusz.jpg"
+        },
+        {
+          "name": "Anna Osiecka",
+          "role": "Marketing manager",
+          "img": "/images/posts/logo_pasieki.jpg"
         }
       ],
       "sections": [
@@ -2980,6 +3883,12 @@
     {
       "slug": "DootiDonutsTiktok",
       "tag": "Dooti Donuts Tiktok",
+      "tags": [
+        "Video",
+        "3D",
+        "FMCG",
+        "Kids"
+      ],
       "title": "Jak zaangażować młodych i z impetem wystartować TikToka marki",
       "caption": [
         "#design #animation",
@@ -3007,7 +3916,7 @@
       "authors": [
         {
           "name": "Piotr",
-          "role": "Owner and Head of Trzask",
+          "role": "Production Director & Owner of Trzask",
           "img": "/images/piotr.jpg"
         },
         {
@@ -3018,7 +3927,7 @@
         {
           "name": "Mariusz Walach",
           "role": "Animator",
-          "img": "/images/Łukasz.jpg"
+          "img": "/images/mariusz.jpg"
         },
         {
           "name": "Łukasz Urban",
@@ -3029,6 +3938,11 @@
           "name": "Weronika Bielecka",
           "role": "Project Manager",
           "img": "/images/weronika.jpg"
+        },
+        {
+          "name": "Mateusz Gradziński",
+          "role": "Brand Manager",
+          "img": "/images/posts/logo_dooti.jpg"
         }
       ],
       "sections": [
@@ -3209,7 +4123,7 @@
             "text": "„Wsparcie ze strony zespołu Trzask jest nieocenione. Zawsze możemy liczyć na ich kreatywność i zrozumienie świata młodych, które doprowadzają do powstania szalonych pomysłów, z których jesteśmy bardzo zadowoleni!”",
             "author": {
               "name": "Mateusz Gradziński",
-              "role": "Brand manager",
+              "role": "Brand Manager",
               "img": "/images/posts/logo_dooti.jpg"
             },
             "top": true,
@@ -3227,6 +4141,10 @@
     {
       "slug": "jars",
       "tag": "Jars",
+      "tags": [
+        "Video",
+        "Gaming"
+      ],
       "title": "Opowieści z dreszczykiem, czyli jak sprawić, by odbiorcy wkręcili się w fabułę gry",
       "caption": [
         "#animation",
@@ -3249,7 +4167,7 @@
       "authors": [
         {
           "name": "Piotr",
-          "role": "Owner and Head of Trzask",
+          "role": "Production Director & Owner of Trzask",
           "img": "/images/piotr.jpg"
         },
         {
@@ -3261,6 +4179,11 @@
           "name": "Mariusz Walach",
           "role": "Animator",
           "img": "/images/mariusz.jpg"
+        },
+        {
+          "name": "Dawid Frątczak ",
+          "role": "Creative Director",
+          "img": "/images/posts/logo_mouse.jpg"
         }
       ],
       "sections": [
@@ -3482,6 +4405,10 @@
     {
       "slug": "tofflairs",
       "tag": "Tofflairs",
+      "tags": [
+        "Video",
+        "FMCG"
+      ],
       "title": "Jak zachęcić młodych by zanurzyli się do świata marki i wzięli udział w loterii?",
       "caption": [
         "#design #animation #tvc",
@@ -3504,7 +4431,7 @@
       "authors": [
         {
           "name": "Piotr",
-          "role": "Owner and Head of Trzask",
+          "role": "Production Director & Owner of Trzask",
           "img": "/images/piotr.jpg"
         },
         {
@@ -3516,6 +4443,11 @@
           "name": "Weronika Bielecka",
           "role": "Project Manager",
           "img": "/images/weronika.jpg"
+        },
+        {
+          "name": "Aleksandra Kucała",
+          "role": "Senior Category Manager",
+          "img": "/images/posts/logo_wawel.jpg"
         }
       ],
       "sections": [
@@ -3696,6 +4628,10 @@
     {
       "slug": "blik",
       "tag": "Blik",
+      "tags": [
+        "Video",
+        "Technology"
+      ],
       "title": "Gaming pasuje do wszystkiego. Nie wierzysz? To przeczytaj",
       "caption": [
         "#design #animation #instreamads",
@@ -3718,7 +4654,7 @@
       "authors": [
         {
           "name": "Piotr",
-          "role": "Owner and Head of Trzask",
+          "role": "Production Director & Owner of Trzask",
           "img": "/images/piotr.jpg"
         },
         {
@@ -3878,7 +4814,7 @@
             "text": "„Nie chcemy się chwalić, ale kreacje wyszły NIEZIEMSKO! Dokładnie tak, jak sobie wymarzyliśmy, a to doświadczenie nauczyło nas, że czasem mniej materiałów znaczy więcej w kontekście wyobraźni. Sky is the limit kochani!”",
             "author": {
               "name": "Piotr",
-              "role": "Owner and Head of Trzask",
+              "role": "Production Director & Owner of Trzask",
               "img": "/images/piotr.jpg"
             },
             "top": true,
@@ -3895,6 +4831,11 @@
     {
       "slug": "lubella",
       "tag": "Lubella",
+      "tags": [
+        "Rich media",
+        "HTML5",
+        "FMCG"
+      ],
       "title": "Świąteczne sentymenty, czyli jak wywołać uśmiech na twarzy odbiorcy",
       "caption": [
         "#design #animation #richmedia",
@@ -3917,7 +4858,7 @@
       "authors": [
         {
           "name": "Piotr",
-          "role": "Owner and Head of Trzask",
+          "role": "Production Director & Owner of Trzask",
           "img": "/images/piotr.jpg"
         },
         {
@@ -3929,6 +4870,11 @@
           "name": "Joanna Jakobielska",
           "role": "Business Development Director",
           "img": "/images/joanna.jpg"
+        },
+        {
+          "name": "Paulina Grębowiec",
+          "role": "Digital Specialist",
+          "img": "/images/posts/logo_lubella.jpg"
         }
       ],
       "sections": [
@@ -4100,6 +5046,11 @@
     {
       "slug": "tymbark",
       "tag": "Tymbark",
+      "tags": [
+        "Rich media",
+        "HTML5",
+        "FMCG"
+      ],
       "title": "Dynamiczne teksty, czyli interaktywna reklama banerowa",
       "caption": [
         "#design #animation #richmedia",
@@ -4122,7 +5073,7 @@
       "authors": [
         {
           "name": "Piotr",
-          "role": "Owner and Head of Trzask",
+          "role": "Production Director & Owner of Trzask",
           "img": "/images/piotr.jpg"
         },
         {
@@ -4290,6 +5241,12 @@
     {
       "slug": "przetworki",
       "tag": "Przetworki",
+      "tags": [
+        "Rich media",
+        "Video",
+        "HTML5",
+        "FMCG"
+      ],
       "title": "Złoty środek pomiędzy reklamą TV a banerem",
       "caption": [
         "#design #animation #richmedia",
@@ -4299,29 +5256,7 @@
       "description": [
         [
           {
-            "paragraph": "Jak pokazać gładkość w reklamie? Oto zagwozdka dnia dzisiejszego i nasz cel. Wszystko powinno być gładkie, dokładnie tak jak dżem, dla którego stworzyliśmy te reklamy. A wszystko po to, by matki, które były naszą grupą docelową, zakochały się w produkcie. Wymagające zadanie? Nam się udało i jeśli chcesz poznać nasz tajemny sekret, to czytaj dalej, a dowiesz się, jak powstały banery do kampanii 'Przetworki' dla marki Łowicz!",
-            "authors": [
-              {
-                "name": "Łukasz Urban",
-                "role": "Art director",
-                "img": "/images/lukasz.jpg"
-              },
-              {
-                "name": "Weronika Bielecka",
-                "role": "Project Manager",
-                "img": "/images/weronika.jpg"
-              },
-              {
-                "name": "Paweł Grabowski",
-                "role": "Lead animator",
-                "img": "/images/pawel.jpg"
-              },
-              {
-                "name": "Piotr",
-                "role": "Owner and Head of Trzask",
-                "img": "/images/piotr.jpg"
-              }
-            ]
+            "paragraph": "Jak pokazać gładkość w reklamie? Oto zagwozdka dnia dzisiejszego i nasz cel. Wszystko powinno być gładkie, dokładnie tak jak dżem, dla którego stworzyliśmy te reklamy. A wszystko po to, by matki, które były naszą grupą docelową, zakochały się w produkcie. Wymagające zadanie? Nam się udało i jeśli chcesz poznać nasz tajemny sekret, to czytaj dalej, a dowiesz się, jak powstały banery do kampanii 'Przetworki' dla marki Łowicz!"
           }
         ]
       ],
@@ -4331,6 +5266,33 @@
         "value": -200,
         "top": -30
       },
+      "authors": [
+        {
+          "name": "Piotr",
+          "role": "Production Director & Owner of Trzask",
+          "img": "/images/piotr.jpg"
+        },
+        {
+          "name": "Joanna Jakobielska",
+          "role": "Business Development Director",
+          "img": "/images/joanna.jpg"
+        },
+        {
+          "name": "Łukasz Urban",
+          "role": "Art director",
+          "img": "/images/lukasz.jpg"
+        },
+        {
+          "name": "Weronika Bielecka",
+          "role": "Project Manager",
+          "img": "/images/weronika.jpg"
+        },
+        {
+          "name": "Paweł Grabowski",
+          "role": "Lead animator",
+          "img": "/images/pawel.jpg"
+        }
+      ],
       "sections": [
         {
           "video": {
@@ -4495,6 +5457,11 @@
     {
       "slug": "tiger",
       "tag": "Tiger",
+      "tags": [
+        "Rich media",
+        "HTML5",
+        "FMCG"
+      ],
       "title": "Zaawansowana gra w reklamie? To możliwe!",
       "caption": [
         "#design #animation #richmedia #games",
@@ -4517,7 +5484,7 @@
       "authors": [
         {
           "name": "Piotr",
-          "role": "Owner and Head of Trzask",
+          "role": "Production Director & Owner of Trzask",
           "img": "/images/piotr.jpg"
         },
         {
@@ -4690,6 +5657,12 @@
     {
       "slug": "kubus",
       "tag": "Kubuś",
+      "tags": [
+        "Rich media",
+        "HTML5",
+        "FMCG",
+        "Kids"
+      ],
       "title": "Kampania, która oczarowała najmłodszych i nie tylko",
       "caption": [
         "#design #animation #richmedia #games",
@@ -4712,7 +5685,7 @@
       "authors": [
         {
           "name": "Piotr",
-          "role": "Owner and Head of Trzask",
+          "role": "Production Director & Owner of Trzask",
           "img": "/images/piotr.jpg"
         },
         {

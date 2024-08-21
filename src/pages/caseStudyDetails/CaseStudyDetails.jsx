@@ -1,10 +1,9 @@
 import React, { useState } from "react";
 import { useParams } from "react-router";
-import { Link } from "react-router-dom";
+import { Link, Redirect } from "react-router-dom";
 import Paragraph from "../../typography/Paragraph/Paragraph";
 import { Headline1 } from "../../typography/Headlines/Headlines";
 import { Container, Row, Col } from "react-bootstrap";
-import { Redirect } from "react-router-dom";
 import Authors from "../../components/Authors/Authors";
 import Section from "./section/Section";
 import "./case-study-details.less";
@@ -122,7 +121,7 @@ export default function CaseStudyDetails(props) {
           <Navi caseStudies={props.items} current={caseStudy} fixed />
         </div>
       ) : (
-        <Redirect to="/pl/case-studies/" />
+        <Redirect to="/pl/case-studies" />
       )}
     </>
   );

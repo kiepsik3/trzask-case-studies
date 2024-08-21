@@ -7,6 +7,7 @@ import Footer from "./components/Footer/Footer";
 import ScrollToTop from "./components/ScrollToTop/ScrollToTop";
 import useFetch from "./hooks/useFetch";
 import { Helmet } from "react-helmet";
+import { Newsletter } from "./components/Newsletter/Newsletter";
 
 const domain = window.location.origin;
 
@@ -24,13 +25,13 @@ function App() {
         <meta name="keywords" content={caseStudies?.keywords?.join(", ")} />
         <link rel="canonical" href={window.location.href} />
       </Helmet>
-      <Header />
       <Router>
+        <Header menu={caseStudies?.menu} />
         <ScrollToTop />
         <Switch>
           {caseStudies && (
             <Route
-              path={`/pl/case-studies/`}
+              path={"/pl/case-studies"}
               exact
               render={() => <CaseStudies {...caseStudies} />}
             />
@@ -43,6 +44,7 @@ function App() {
           )}
         </Switch>
       </Router>
+      <Newsletter />
       <Footer />
     </div>
   );
