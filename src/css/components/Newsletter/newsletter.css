@@ -83,6 +83,8 @@
   align-items: center;
   font-size: 18px;
   color: black;
+  position: relative;
+  background-color: white;
   margin-top: auto;
   padding: 12px 28px;
   border: 3px solid #7C59ED;
@@ -93,6 +95,28 @@
 .newsletter-wrapper .newsletter form button:disabled {
   opacity: 0.5;
   cursor: not-allowed;
+}
+.newsletter-wrapper .newsletter form button:after {
+  content: "";
+  position: absolute;
+  transition: all 0.6s;
+  width: 70px;
+  height: 75px;
+  top: -20px;
+  left: 55px;
+  background: url("/src/assets/img/fancy-2.svg") no-repeat;
+  background-size: cover;
+  z-index: -1;
+  visibility: hidden;
+  opacity: 0;
+}
+.newsletter-wrapper .newsletter form button:hover:not(:disabled) {
+  background-color: #e8f0fe;
+}
+.newsletter-wrapper .newsletter form button:hover:not(:disabled):after {
+  top: -45px;
+  visibility: visible;
+  opacity: 1;
 }
 .newsletter-wrapper .newsletter form button svg {
   margin-left: 8px;
@@ -116,5 +140,5 @@
   text-decoration: underline;
 }
 .newsletter-wrapper .newsletter form .checkbox input[type=checkbox]:checked + label {
-  background: url("/src/assets/img/checkbox-violet-checked.svg") no-repeat !important;
+  background: url("/src/assets/img/checkbox-violet-checked.svg") no-repeat;
 }

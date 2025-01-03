@@ -17,6 +17,11 @@
   position: absolute !important;
   transition: all 0.42s !important;
 }
+@media (max-width: 639px) {
+  .menu + .hamburger-react {
+    right: 12px !important;
+  }
+}
 .menu + .hamburger-react:hover {
   cursor: url("/src/assets/img/hand.png") 0 0, auto !important;
 }

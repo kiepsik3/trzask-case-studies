@@ -19,35 +19,35 @@ export function Menu(props) {
       {isOpen && <div className="menu-cover-bg" />}
       <div className={cn("menu", isOpen && "active")}>
         <ul>
-          {props?.menu?.map((item, idx) => (
-            <>
-              {item.items ? (
-                <>
-                  <li>{item.name}</li>
-                  <ul>
-                    {item.items.map((subItem, idx) => (
-                      <li key={idx}>
-                        <a href={`/pl/skills${subItem.slug}`}>{subItem.name}</a>
-                      </li>
-                    ))}
-                  </ul>
-                </>
-              ) : (
-                <li key={idx}>
-                  <a
-                    href={`/pl${item.slug}`}
-                    className={item.slug === "/case-studies" ? "selected" : ""}
-                    key={idx}
-                  >
-                    {item.name}
-                  </a>
+          {props?.menu?.map((item, idx) =>
+            item.items ? (
+              <React.Fragment key={idx}>
+                <li>
+                  <a href={`/pl${item.slug}`}>{item.name}</a>
                 </li>
-              )}
-            </>
-          ))}
-          <li>
-            <a href="/en">IN ENGLISH</a>
-          </li>
+                <ul>
+                  {item.items.map((subItem, idx) => (
+                    <li key={idx}>
+                      <a href={`/pl/skills${subItem.slug}`}>{subItem.name}</a>
+                    </li>
+                  ))}
+                </ul>
+              </React.Fragment>
+            ) : (
+              <li key={idx}>
+                <a
+                  href={`/pl${item.slug}`}
+                  className={item.slug === "/case-studies" ? "selected" : ""}
+                  key={idx}
+                >
+                  {item.name}
+                </a>
+              </li>
+            ),
+          )}
+          {/*<li>*/}
+          {/*  <a href="/en/case-studies">IN ENGLISH</a>*/}
+          {/*</li>*/}
         </ul>
       </div>
       <Hamburger

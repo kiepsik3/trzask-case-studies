@@ -11,7 +11,8 @@
 }
 @media (max-width: 575px) {
   .header {
-    padding: 24px 8px 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
   }
 }
 .header.collapsed {
